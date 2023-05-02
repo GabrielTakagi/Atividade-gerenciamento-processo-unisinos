@@ -1,0 +1,2495 @@
+HTTP/2 200 
+date: Wed, 22 Mar 2023 18:07:19 GMT
+server: nginx/1.21.6
+content-type: text/html; charset=UTF-8
+x-pingback: https://hojenomundomilitar.com.br/xmlrpc.php
+link: <https://hojenomundomilitar.com.br/wp-json/>; rel="https://api.w.org/", <https://hojenomundomilitar.com.br/wp-json/wp/v2/posts/44162>; rel="alternate"; type="application/json", <https://hojenomundomilitar.com.br/?p=44162>; rel=shortlink
+content-security-policy: upgrade-insecure-requests
+cache-control: max-age=300
+expires: Wed, 22 Mar 2023 18:12:26 GMT
+vary: Accept-Encoding
+host-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+x-endurance-cache-level: 2
+x-nginx-cache: WordPress
+x-server-cache: true
+x-proxy-cache: EXPIRED
+
+<!-- =========================
+     Page Breadcrumb   
+============================== -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Suécia e Finlândia em caminhos diferentes para adesão à OTAN &#8211; Hoje No Mundo Militar</title>
+<style type="text/css">/*==================== Top Bar color ====================*/
+
+:root {
+  --pri-color: #6e843b;
+  --secondary-color: #202f5b; 
+ }
+.mg-head-detail ul li ul {
+	background: var(--secondary-color);
+}
+.mg-head-detail ul li ul li:hover {
+	background: var(--pri-color);
+}
+.mg-head-detail ul li ul li a.dropdown-item {
+	background-color: unset;
+	color: #fff !important;
+}
+.mg-trhead .mg-head-detail .info-left li a , .mg-trhead .mg-head-detail li a i, .mg-trhead .mg-head-detail .info-right li a {
+	color: #fff;
+}
+.mg-trhead .mg-head-detail li a i {
+	color: var(--pri-color);
+}
+.mg-head-detail .info-left li span.time {
+	background: #fff;
+	color: var(--pri-color);
+}
+.mg-trhead .mg-head-detail .info-right li a i {
+	color: var(--pri-color);
+}
+.mg-trhead.conte .mg-head-detail .mg-social li a, .mg-trhead.conte .mg-head-detail .mg-social li a i {
+	color: #fff;
+}
+.mg-trhead.conte .mg-head-detail .mg-social li a:hover i, .mg-trhead.conte .mg-head-detail .mg-social li a i:hover {
+	color: var(--pri-color);
+}
+.mg-headwidget .mg-head-detail {
+	background: var(--secondary-color);
+}
+.mg-head-detail .info-left li, .mg-headwidget .mg-head-detail .info-left li a , .mg-headwidget .mg-head-detail li a i, .mg-headwidget .mg-head-detail .info-right li a {
+	color: #fff;
+}
+.mg-headwidget .mg-head-detail .info-right li a:hover, .mg-headwidget .mg-head-detail .info-right li a:focus {
+	color: var(--pri-color);
+}
+.mg-headwidget .mg-head-detail li a i {
+	color: #fff;
+}
+.mg-headwidget .mg-head-detail .info-right li a i {
+	color: #fff;
+}
+
+.mg-headwidget .trans {
+	background: rgba(0, 0, 0, 0.0);
+}
+.mg-headwidget.trans .mg-head-detail {
+	background: rgba(0, 0, 0, 0.0);
+	border-color: rgba(255, 255, 255, 0.1);
+}
+.mg-headwidget.trans .mg-head-detail .info-left li a , .mg-headwidget.trans .mg-head-detail li a i, .mg-headwidget.trans .mg-head-detail .info-right li a {
+	color: #fff;
+}
+.mg-headwidget.trans .navbar-wp {
+    background: rgba(0, 0, 0, 0.7);
+}
+.mg-headwidget.center .navbar-wp {
+    background: var(--pri-color);
+}
+/*==================== center Top Bar color ====================*/
+.header-center .mg-head-detail {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .mg-head-detail .info-left li a , .header-center .mg-head-detail li a i, .header-center .mg-head-detail .info-right li a {
+	color: #222;
+}
+.header-center .mg-head-detail li a i {
+	color: #222;
+}
+.header-center .mg-head-detail .info-right li a i {
+	color: #222;
+}
+
+.site-title a{color: #fff;}
+/*==================== standard Top Bar color ====================*/
+.mg-standard .mg-head-detail {
+	background: #222;
+}
+.mg-standard .mg-head-detail .info-left li a , .mg-standard .mg-head-detail li a i, .mg-standard .mg-head-detail .info-right li a {
+	color: #fff;
+}
+.mg-standard .mg-head-detail li a i {
+	color: #fff;
+}
+.mg-standard .mg-head-detail .info-right li a i {
+	color: #fff;
+}
+.mg-standard .mg-head-detail .info-right li a:hover i {
+	color: var(--pri-color);
+}
+/*==================== standhead Top Bar color ====================*/
+.mg-standhead .mg-head-detail {
+	background: #fff;
+}
+.mg-standhead .mg-head-detail .info-left li, .mg-standhead .mg-head-detail .info-left li a {
+	color: var(--pri-color);
+}
+.mg-standhead .btn-theme.quote {
+    background: #f4f7fc;
+    border-color: #f4f7fc;;
+    color: #000;
+}
+.mg-standhead .mg-search-box a {
+	color: #fff;
+}
+.mg-standhead .mg-search-box a:hover, .mg-standhead .mg-search-box a:focus {
+    color: rgba(255,255,255,0.6);
+}
+/*=== navbar Header colors ===*/
+.mg-headwidget .navbar-wp {
+	background: var(--secondary-color);
+}
+.mg-headwidget .navbar-header .navbar-brand {
+	color: #222;
+}
+.header-widget .mg-header-box-icon i {
+    color: var(--pri-color);
+}
+.header-widget .mg-header-box .mg-social li span.icon-soci a {
+    color: #999;
+}
+.header-widget .mg-header-box .mg-social span.icon-soci:hover a, .header-widget .mg-header-box .mg-social span.icon-soci:focus a {
+    color: var(--pri-color);
+}
+.mg-headwidget .navbar-wp .navbar-nav > li> a {
+	color: rgba(255,255,255,0.71);
+}
+.mg-headwidget .navbar-wp .navbar-nav > li > a:hover, .mg-headwidget .navbar-wp .navbar-nav > li > a:focus, .mg-headwidget .navbar-wp .navbar-nav > .active > a, .mg-headwidget .navbar-wp .navbar-nav > .active > a:hover, .mg-headwidget .navbar-wp .navbar-nav > .active > a:focus {
+	color: #fff;
+	background: var(--pri-color);
+}
+.mg-headwidget span.navbar-toggler-icon {
+    color: #fff;
+    background-color: transparent;
+    /* line-height: 28px; */
+}
+.navbar-toggler .close {
+	color: #fff;
+}
+.mg-headwidget .mg-search-box a {
+	color: rgba(255,255,255,0.71);
+}
+.mg-headwidget .mg-search-box a:hover, .mg-headwidget .mg-search-box a:focus {
+	color: #fff;
+}
+.mg-headwidget.trans .mg-head-detail .mg-social i {
+    color: #fff;
+}
+.mg-headwidget.trans .mg-header-box-info h4, .mg-headwidget.trans .mg-header-box-info p {
+	color: #fff;
+}
+.mg-headwidget.light .mg-head-detail{
+	background: #fff;
+	border-color: #eee;
+}
+.mg-headwidget.light .info-left li {
+	color: #848582;
+}
+.mg-headwidget.light .mg-nav-widget-area-back .inner {
+	background: #fff;
+}
+.mg-headwidget.light .site-title a, .mg-headwidget.light .site-description {
+	color: #000;
+}
+.mg-headwidget.light .mg-search-box a {
+	color: rgba(255,255,255,0.71);
+}
+.mg-headwidget.light .mg-search-box a:hover, .mg-headwidget.light .mg-search-box a:focus {
+	color: #fff;
+}
+/*==================== Theme Menu ====================*/
+/*=== navbar Header colors ===*/
+.mg-standard .navbar-wp {
+	background: #fff;
+}
+.mg-standard .navbar-header .navbar-brand {
+	color: #222;
+}
+.mg-standard .navbar-wp .navbar-nav > li > a {
+	color: #222;
+}
+.mg-standard .navbar-wp .navbar-nav > li > a:hover, .mg-standard .navbar-wp .navbar-nav > li > a:focus, .mg-standard .navbar-wp .navbar-nav > .active > a, .mg-standard .navbar-wp .navbar-nav > .active > a:hover, .mg-standard .navbar-wp .navbar-nav > .active > a:focus {
+	color: var(--pri-color);
+}
+/*=== navbar Header colors ===*/
+.mg-standhead .navbar-wp {
+	background: var(--pri-color);
+}
+.mg-standhead .navbar-header .navbar-brand {
+	color: #222;
+}
+/*=== navbar hover colors ===*/
+.mg-standhead .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.mg-standhead .navbar-wp .navbar-nav > li > a:hover, .mg-standhead .navbar-wp .navbar-nav > li > a:focus, .mg-standhead .navbar-wp .navbar-nav > .active > a, .mg-standhead .navbar-wp .navbar-nav > .active > a:hover, .mg-standhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: rgba(255,255,255,0.6);
+}
+.mg-standhead .navbar-wp .navbar-nav > .open > a, .mg-standhead .navbar-wp .navbar-nav > .open > a:hover, .mg-standhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: rgba(255,255,255,0.6);
+	border-color: rgba(255,255,255,0.6);
+}
+.mg-standhead .navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+/*=== navbar transparent colors ===*/ 
+.mg-trhead .navbar-wp {
+	background: transparent;
+}
+.mg-trhead .navbar-header .navbar-brand {
+	color: #fff;
+}
+/*=== navbar hover colors ===*/
+.mg-trhead .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.mg-trhead .navbar-wp .navbar-nav > li > a:hover, .mg-trhead .navbar-wp .navbar-nav > li > a:focus, .mg-trhead .navbar-wp .navbar-nav > .active > a, .mg-trhead .navbar-wp .navbar-nav > .active > a:hover, .mg-trhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: var(--pri-color);
+}
+.mg-trhead .navbar-wp .navbar-nav > .open > a, .mg-trhead .navbar-wp .navbar-nav > .open > a:hover, .mg-trhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.mg-trhead .navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+/*=== navbar transparent contenar colors ===*/ 
+.mg-trhead.conte .navbar-wp {
+	background: rgba(0, 0, 0, 0.40);
+}
+.mg-trhead.conte .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.mg-trhead.conte .is-sticky .navbar-wp, .mg-trhead.conte .mg-main-nav {
+	background: rgba(0, 0, 0, 0.0);
+}
+.mg-trhead.conte > .is-sticky .mg-main-nav {
+	background: rgba(0, 0, 0, 0.65);
+}
+/*=== navbar center colors ===*/ 
+.header-center .navbar-wp {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .navbar-brand {
+	color: #222;
+}
+.header-center .navbar-brand span.site-description {
+	color: #8f9294;
+}
+.header-center .navbar-nav > li > a {
+	color: #222;
+}
+.header-center .navbar-wp .navbar-nav > li > a:hover, .header-center .navbar-wp .navbar-nav > li > a:focus, .header-center .navbar-wp .navbar-nav > .active > a, .header-center .navbar-wp .navbar-nav > .active > a:hover, .header-center .navbar-wp .navbar-nav > .active > a:focus {
+	color: var(--pri-color);
+}
+.header-center .navbar-wp .navbar-nav > .open > a, .header-center .navbar-wp .navbar-nav > .open > a:hover, .header-center .navbar-wp .navbar-nav > .open > a:focus {
+	color: var(--pri-color);
+	border-color: var(--pri-color);
+}
+
+/**Category Color **/
+a.newsup-categories.category-color-1{background: var(--pri-color);}
+a.newsup-categories.category-color-2{background: #feb236;}
+a.newsup-categories.category-color-3{background: #622569;}
+a.newsup-categories.category-color-4{background: #82b74b;}
+/*=== navbar dropdown colors ===*/ 
+.navbar-wp .dropdown-menu {
+	background: #1f2024;
+}
+.navbar-wp .dropdown-menu > li > a {
+	background: #1f2024;
+	color: #fff;
+}
+.navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
+	background: var(--pri-color);
+	color: #fff;
+}
+.navbar-wp .dropdown-menu > li > a:hover {
+	background: var(--pri-color);
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+}
+.mg-search-box .searchinner .btn {
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+	color: #fff;
+}
+.mg-search-box .searchinner .btn:hover, .mg-search-box .searchinner .btn:focus {
+	background: var(--secondary-color);
+	border-color: var(--secondary-color);
+	color: #fff;
+}
+.mobilehomebtn {
+    background: var(--pri-color);
+    color: #fff;
+}
+.mobilehomebtn:hover, .mobilehomebtn:focus {
+    background: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+.navbar-base .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+/*=== navbar toggle color ===*/ 
+.navbar-default .navbar-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== Body & Global ====================*/
+body {
+	color: #222;
+}
+.mg-heading h3, .mg-heading h3 a {
+	color: #212121;
+}
+input:not([type]), input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"], textarea {
+	color: #9b9ea8;
+	border-color: #eef3fb;
+}
+.form-control:hover, textarea:hover, input:not([type]):hover, input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="tel"]:hover, input[type="url"]:hover, input[type="text"]:hover, input:not([type]):focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="text"]:focus {
+	border-color: var(--pri-color);
+}
+input[type="submit"], button {
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+	color: #fff;
+}
+input[type="submit"]:hover, button:hover,input[type="submit"]:focus, button:focus {
+	background: #002954;
+	border-color: #002954;
+	color: #fff;
+}
+a {
+	color: var(--pri-color);
+}
+a:hover, a:focus {
+	color: #002954;
+}
+blockquote{
+	background: #f5f5f5;
+	border-color: var(--pri-color);
+}
+blockquote::before {
+	color: var(--pri-color);
+}
+.mg-search-modal .mg-search .btn {
+	background: var(--pri-color);
+	color: #fff;
+}
+.mg-search-modal .mg-search .btn:hover {
+	background: #002954;
+}
+/*-- Alerts Styles --*/
+.alert-success, .text-success {
+	background-color: #2ac56c;
+	color: #fff;
+}
+.alert-info, .text-info {
+	background-color: #4593e3;
+	color: #fff;
+}
+.alert-danger, .text-danger {
+	background-color: #f06060;
+	color: #fff;
+}
+.alert-warning, .text-warning {
+	background-color: #fcd04b;
+	color: #fff;
+}
+.progress-bar-success {
+	background-color: #2ac56c;
+	color: #fff;
+}
+.progress-bar-info {
+	background-color: #4593e3;
+	color: #fff;
+}
+.progress-bar-danger {
+	background-color: #f06060;
+	color: #fff;
+}
+.progress-bar-warning {
+	background-color: #fcd04b;
+	color: #fff;
+}
+.subscription-success {
+	color: #2ac56c;
+}
+.subscription-error {
+	color: #f06060;
+} 
+.mg-error-404 h1 i {
+	color: var(--pri-color);
+}
+.grey-bg {
+	background: #f4f7fc;
+}
+.swiper .swiper-button-prev, 
+.swiper .swiper-button-next { 
+	background: #fff; 
+	border-color: #fff;
+	color: #222;
+}
+.swiper .swiper-button-prev:hover, 
+.swiper .swiper-button-next:hover,
+.owl-carousel .owl-controls .owl-buttons div:hover {
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+	color: #fff;
+}
+.owl-carousel .owl-controls .owl-buttons div:hover i {
+	color: #fff;
+}
+.owl-carousel .owl-controls .owl-page span {
+	border-color: #fff;
+}
+.owl-carousel .owl-controls .owl-page.active span {
+	border-color: var(--pri-color);
+}
+.swiper .swiper-pagination-bullet-active {
+    background: var(--pri-color);
+}
+.mg-social li a, .mg-social li span.icon-soci a {
+	color: #fff !important;
+}
+.mg-widget-address li span.icon-addr i {
+    color: var(--pri-color);
+}
+/*==================== Section & Module ====================*/
+.mg-tpt-tag-area {
+    background: #fff;
+}
+.mg-tpt-txnlst strong {
+    color: #383b42;
+}
+.mg-tpt-txnlst ul li a {
+    color: var(--pri-color);
+    background: #f3eeee;
+}
+.mg-tpt-txnlst ul li a:hover, .mg-tpt-txnlst ul li a:focus {
+    color: #fff;
+    background: var(--pri-color);
+}
+.mg-latest-news .bn_title span{
+  border-left-color: var(--pri-color);
+  border-color: transparent transparent transparent var(--pri-color); 
+}
+.mg-latest-news .bn_title {
+  background-color: var(--pri-color);
+}
+.mg-latest-news .mg-latest-news-slider a{
+  color: #222;
+}
+.mg-latest-news .mg-latest-news-slider a::before {
+    color: var(--pri-color);
+}
+.mg-latest-news .mg-latest-news-slider a span{
+  color: var(--pri-color);
+}
+.trending-area .title {
+    background: #fff;
+}
+.trending-area .title h4::before {
+    background: var(--pri-color);
+}
+.trending-area .img-small-post:before {
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+}
+.top-right-area .nav-tabs > li > a {
+    border-color: #eee;
+    color: #212121;
+    background: #fff;
+}
+.top-right-area .nav-tabs .nav-link.active, .top-right-area .nav-tabs .nav-link.active:hover, .top-right-area .nav-tabs .nav-link.active:focus {
+    color: #212121;
+    background-color: #fff;
+    border-color: #eee;
+    border-bottom-color: var(--pri-color);
+}
+.title_small_post h5 a {
+	color: #212121;
+}	
+.title_small_post h5 a:hover {
+	color: var(--pri-color);
+}	
+.mg-featured-slider{
+  background-color: #FFF;
+}
+.mg-blog-inner h4, .mg-blog-inner h4 a {
+  color: #fff;
+}
+.mg-blog-inner .mg-blog-date, .mg-blog-inner .mg-blog-meta i, .mg-blog-inner .mg-blog-meta a {
+	color: #fff;
+}
+.mg-sec-title {
+  border-color: var(--pri-color);
+}
+.mg-sec-title h4{
+    background-color: var(--pri-color);
+    color: #fff;
+}
+.mg-sec-title  h4::before {
+    border-left-color: var(--pri-color);
+    border-color: transparent transparent transparent var(--pri-color);
+}
+.mg-viewmr-btn{
+  color: var(--pri-color);
+}
+.mg-posts-sec .small-post-content h5 a:hover, .featured_cat_slider a:hover{
+  color: var(--pri-color);
+}
+.mg-posts-sec-inner .small-list-post li{
+  background: #fff;
+}
+.small-list-post h5.title, .small-list-post h5.title a {
+    color: #212121;
+}
+.mg-posts-sec-post{
+  background: #fff;
+}
+.mg-posts-modul-6 .mg-sec-top-post .title a{
+    color: #000;
+}
+.mg-post-box .title a { 
+    color:#fff;
+}
+.mg-post-box .title a:hover { 
+    color:var(--pri-color);
+}
+.gridslider .mg-blog-post .title a, .gridslider .small-list-post .mg-blog-post .title a{
+	color: #212121;
+}
+.gridslider .mg-blog-post .title a:hover, .gridslider .small-list-post .mg-blog-post .title a:hover{
+	color: var(--pri-color);
+}
+.mg-post-box .latest-meta { 
+    color: #fff;
+}
+.mg-post-box .latest-meta .latest-date { 
+    color:#f3f3f3;
+}
+.mg-post-box .latest-content { 
+    color: #fff; 
+}
+.mg-post-bottom .mg-share-icons .mg-share span a{
+	background-color: #CCD1D9;
+  color: #fff;
+}
+.mg-post-bottom .mg-share-icons .mg-share span a:hover{
+  background-color:var(--pri-color);
+  color: #fff;
+}
+.mg-post-bottom .mg-share-icons .mg-share-toggle{
+  background-color: #CCD1D9;
+}
+.mg-post-bottom .mg-share-icons .mg-share-toggle i{
+  color: #fff;
+}
+.mg-post-bottom .mg-share-icons .mg-share-toggle:hover{
+  background-color:var(--pri-color);
+  color: #fff;
+}
+.mg-subscriber .overlay {
+	background: #f3f3f3;
+}
+.mg-breadcrumb-section .overlay {
+	background: #fff;
+}
+.nolist_crowsel {
+    background: #fff;
+}
+.mg-no-list-area .mg-blog-post .mg-post-area .count {
+    color: var(--pri-color);
+    background: #fff;
+}
+.mg-no-list-area .mg-blog-post h3 a {
+    color: #212121;
+}
+.mg-widget .mg-author .rounded-circle{
+	border-color: var(--pri-color);
+}
+/*==================== post ====================*/
+.mg-blog-post-box .mg-header h1 a {
+	color: #000;
+}
+.mg-blog-post .bottom h4, .mg-blog-post .bottom h4 a, .bs-blog-post.three .title a {
+	color: #fff;
+}
+.mg-blog-post .bottom h4:hover, .mg-blog-post .bottom h4 a:hover, .mg-posts-modul-6 .mg-sec-top-post .title a:hover, .mg-blog-inner h4 a:hover, .bs-blog-post.three .title a:hover {
+	color: var(--pri-color);
+}
+.mg-blog-post-box .small {
+	color: #222;
+}
+.mg-blog-post-box h4.title, .mg-blog-post-box h4.title a {
+	color: #212121;
+}
+.mg-blog-post-box h4.title:hover, .mg-blog-post-box h4.title a:hover, .mg-blog-post-box h4.title:focus, .mg-blog-post-box h4.title a:focus {
+	color: var(--pri-color);
+}
+.mg-blog-category {
+}
+.mg-blog-category a{
+    color: #fff;
+    background: var(--pri-color);
+}
+.mg-blog-category a:hover {
+    color: #fff;
+}
+.mg-blog-meta {
+    color: #333;
+}
+.mg-blog-meta a {
+	color: #333;
+}
+.mg-blog-meta a:hover {
+	color: var(--pri-color);
+}
+.mg-blog-meta i {
+	color: #333;
+}
+.mg-blog-date {
+	color: #333;
+}
+.mg-blog-post.lg .mg-blog-meta i, .mg-blog-post.lg .mg-blog-meta a , .mg-blog-post.lg .mg-blog-meta span {
+	color: #fff;
+}
+.post-form {
+    color: #fff;
+    background: var(--pri-color);
+}
+.mg-comments h4 {
+	color: #212121;
+}
+.comments-area .comment-meta .comment-author img {
+	border-color: var(--pri-color);
+}
+.comment-body .reply a {
+    color: #fff;
+    background: var(--pri-color);
+}
+.comment-body .reply a:hover, .comment-body .reply a:focus {
+    color: #fff;
+    background: var(--secondary-color);
+}
+.comment-metadata .edit-link:before {
+    color: var(--pri-color);
+}
+.mg-blog-author {
+	background: #e8e8e8;
+}
+.mg-info-author-block {
+	background: #fff;
+	border-color: #eaeaea;
+	color: #222;
+}
+.mg-info-author-block a {
+	color: #212121;
+}
+.mg-info-author-block h4 {
+	color: #333;
+}
+.mg-info-author-block h4 span {
+	color: #999999;
+}
+.mg-info-author-block .mg-info-author-social li a {
+	color: #fff;
+}
+.comment_section .comment-reply-link {
+	background: #f0f0f0;
+	color: #666;
+	border-color: #f0f0f0;
+}
+.mg-comments a {
+	color: #777;
+}
+.mg-comments h4 span {
+	color: #999999;
+}
+.mg-comments .comment .media-body > p:last-child {
+	border-color: #f0f0f0;
+}
+.mg-comments li .media-body > .small {
+	color: #999;
+}
+.mg-comments li .media-body > p {
+	border-color: #f0f0f0;
+	color: #999;
+}
+.mg-comments .comment-list li {
+	background: #fff;
+	border-color: #eee;
+}
+/*==================== Sidebar ====================*/
+.mg-sidebar .mg-widget {
+	background: #fff;
+	border-color: #eee;
+}
+.mg-wid-title {
+	border-color: var(--pri-color);
+}
+.mg-sidebar .mg-widget h6 {
+	background: var(--pri-color);
+	color: #fff;
+}
+.mg-sidebar .mg-widget h6::before {
+	border-left-color: var(--pri-color);
+    border-color: transparent transparent transparent var(--pri-color);
+}
+.mg-sidebar .mg-widget ul li {
+	border-color: #eee;
+}
+.mg-sidebar .mg-widget ul li a {
+	color: #222;
+}
+.mg-sidebar .mg-widget ul li a:hover, .mg-sidebar .mg-widget ul li a:focus {
+	color: var(--pri-color);
+}
+.mg-sidebar .mg-widget ul li .mg-blog-category a, .mg-sidebar .mg-widget ul li .mg-blog-category a:hover {
+    color: #fff;
+}
+.mg-sidebar .mg-widget .mg-blog-post h3 a {
+	color: #212121;
+}
+.mg-sidebar .mg-widget .mg-blog-post h3 a:hover {
+	color: var(--pri-color);
+}
+.mg-sidebar .mg-widget.widget_search .btn {
+	color: #fff;
+	background: var(--pri-color);
+}
+.mg-sidebar .mg-widget.widget_search .btn:hover, .mg-sidebar .mg-widget.widget_search .btn:focus {
+	background: #002954;
+}
+.mg-sidebar .mg-mailchimp-widget .btn {
+	color: #fff;
+	background: var(--pri-color);
+}
+.mg-sidebar .mg-mailchimp-widget .btn:hover, .mg-sidebar .mg-mailchimp-widget .btn:focus {
+	background: #002954;
+}
+.mg-sidebar .mg-widget .mg-widget-tags a, .mg-sidebar .mg-widget .tagcloud a, .wp-block-tag-cloud a, .mg-widget .wp-block-tag-cloud a {
+	background: #f3eeee;
+	color: var(--pri-color);
+	border-color: #f3eeee;
+}
+.mg-sidebar .mg-widget .mg-widget-tags a:hover, .mg-sidebar .mg-widget .tagcloud a:hover, .mg-sidebar .mg-widget .mg-widget-tags a:focus, .mg-sidebar .mg-widget .tagcloud a:focus, .wp-block-tag-cloud a:hover, .wp-block-tag-cloud a:focus,
+ .wp-block-tag-cloud a:hover, .wp-block-tag-cloud a:focus,
+.mg-widget .wp-block-tag-cloud a:hover {
+	color: #fff;
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.mg-sidebar .mg-widget .mg-social li span.icon-soci {
+	color: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.mg-sidebar .mg-widget .mg-social li span.icon-soci:hover {
+	color: #fff;
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.mg-sidebar .mg-widget .mg-social li span.icon-soci:hover i {
+	color: #fff;
+}
+.mg-sidebar .mg-widget .mg-twitter-feed li::before {
+	color: var(--pri-color);
+}
+.mg-sidebar .mg-left-menu-widget ul li:hover, .mg-sidebar .mg-left-menu-widget ul li.active {
+	background: #002954;
+	color: #fff;
+}
+.mg-sidebar .mg-left-menu-widget ul li:hover a, .mg-sidebar .mg-left-menu-widget ul li.active a {
+	color: #fff;
+}
+.mg-sidebar .mg-left-menu-widget ul li a {
+	color: #212121;
+}
+.wp-block-search .wp-block-search__button {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+    color: #fff;
+}
+.wp-block-search .wp-block-search__label, .mg-widget .wp-block-group h2 {
+    background: var(--pri-color);
+    color: #fff;
+    border-color: var(--pri-color);
+}
+.wp-block-search .wp-block-search__label::before, .mg-widget .wp-block-group h2:before {
+    border-left-color: var(--pri-color);
+    border-color: transparent transparent transparent var(--pri-color);
+}
+label.wp-block-search__label:after, .mg-widget .wp-block-group h2::after  {
+	background-color: var(--pri-color);
+}
+/*==================== general ====================*/
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #212121;
+}
+.btn-theme, .more_btn, .more-link {
+	background: var(--pri-color);
+	color: #fff;
+	border-color: var(--pri-color);
+}
+.btn-theme:hover, .btn-theme:focus, .more_btn:hover, .more_btn:focus, .more-link:hover, .more-link:focus {
+	color: #fff;
+	opacity: 0.8;
+}
+.btn-theme-two {
+	color: #fff;
+	border-color: #fff;
+	background: rgba(0,0,0,0);
+}
+.btn-theme-two:hover, .btn-theme-two:focus {
+	background: var(--pri-color);
+	color: #fff;
+	border-color: var(--pri-color);
+}
+.btn-theme-three {
+	color: #3b3e79;
+	border-color: #e9f3ed;
+	background: rgba(0,0,0,0);
+}
+.btn-theme-three:hover, .btn-theme-three:focus {
+	background: var(--pri-color);
+	color: #fff;
+	border-color: var(--pri-color);
+}
+.btn-blog:hover, .btn-blog:focus {
+	background: var(--pri-color);
+	color: #fff;
+	border-color: var(--pri-color);
+}
+/*==================== pagination color ====================*/
+.navigation.pagination .nav-links .page-numbers, .navigation.pagination .nav-links a {
+	background: #fff;
+	color: #999;
+}
+.navigation.pagination .nav-links .page-numbers:hover, .navigation.pagination .nav-links .page-numbers:focus, .navigation.pagination .nav-links .page-numbers.current, .navigation.pagination .nav-links .page-numbers.current:hover,  .navigation.pagination .nav-links .page-numbers.current:focus {
+	border-color: var(--pri-color);
+	background: var(--pri-color);
+	color: #fff;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    border-color: var(--pri-color);
+	background: var(--pri-color);
+	color: #fff;
+}
+.nav-next a, .nav-previous a {
+	color: #000;
+}
+.nav-next a:hover, .nav-next a:focus, .nav-previous a:hover, .nav-previous a:focus {
+	color: var(--pri-color);
+}
+/*==================== typo ====================*/
+.mg-breadcrumb-title h1 {
+	color: #222;
+}
+.mg-page-breadcrumb > li a {
+	color: #222;
+}
+.mg-page-breadcrumb > li a:hover, .mg-page-breadcrumb > li a:focus {
+	color: var(--pri-color);
+}
+.mg-page-breadcrumb > li + li:before {
+	color: #222;
+}
+/*==================== blog ====================*/
+.mg-comments .mg-reply:hover, .mg-comments .mg-reply:focus {
+	color: #fff;
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.mg-heading-bor-bt h5 {
+	color: #212121;
+}
+/*==================== footer background ====================*/
+footer .overlay {
+	background: #121026;
+}
+footer .mg-footer-top-area h6 {
+	color: #fff;
+}
+footer .mg-widget h6, footer .mg_contact_widget .mg-widget h6 {
+	color: #fff;
+}
+footer .mg-widget ul li {
+	color: #fff;
+	border-color: #242425;
+}
+footer .mg-widget ul li a {
+	color: #fff;
+}
+footer .mg-widget ul li a:hover, footer .mg-widget ul li a:focus {
+	color: var(--pri-color);
+}
+footer .mg-widget .mg-widget-address li {
+	color: #fff;
+}
+footer .mg-widget .mg-opening-hours li {
+	color: #fff;
+}
+footer .mg-blog-post h3, footer .mg-blog-post h3 a {
+	color: #fff;
+}
+footer .mg-blog-post h3 a:hover{
+	color: var(--pri-color);
+}
+footer .mg-widget .mg-widget-address li span.icon-addr i {
+	color: #fff;
+}
+footer .mg-blog-post span {
+	color: #fff;
+}
+footer .mg-widget .mg-twitter-feed li a {
+	color: #aaaed1;
+}
+footer .mg-widget .calendar_wrap table thead th,footer .mg-widget .calendar_wrap table tbody td,footer .mg-widget .calendar_wrap table caption {
+	border-color: #777;
+	color: #fff;
+}
+footer .mg-social li span.icon-soci a {
+    color: #fff;
+}
+.facebook{
+	background: #3b5998;
+} 
+.twitter{
+	background: #1da1f2;
+}
+.linkedin{
+	background: #cd201f;
+}
+.instagram{
+	background: radial-gradient(circle farthest-corner at 32% 106%,#ffe17d 0,#ffcd69 10%,#fa9137 28%,#eb4141 42%,transparent 82%),linear-gradient(135deg,#234bd7 12%,#c33cbe 58%);
+}
+.youtube{
+	background: #cd201f;
+}
+.pinterest {
+	background: #bd081c;
+}
+.telegram {
+    background: #0088cc;
+}
+.vimeo {
+	background: #44bbff;
+}
+.dribbble {
+	background: #ea4c89;
+}
+.skype {
+	background: #0078ca;
+}
+footer .mg-footer-copyright {
+	background: #090818;
+}
+footer .mg-footer-copyright p, footer .mg-footer-copyright a {
+	color: #aaaed1;
+}
+footer .mg-footer-copyright a:hover, footer .mg-footer-copyright a:focus {
+	color: #fff;
+}
+footer .mg-widget p {
+	color: #fff;
+}
+footer .mg-widget.widget_search .btn {
+	color: #fff;
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+}
+footer .mg-widget.widget_search .btn:hover, footer .mg-widget.widget_search .btn:focus {
+	background: #002954;
+	border-color: #002954;
+}
+footer .mg-widget .mg-widget-tags a, footer .mg-widget .tagcloud a {
+	background: #fff;
+    color: var(--pri-color);
+    border-color: #fff;
+}
+footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, footer .mg-widget .mg-widget-tags a:focus, footer .mg-widget .tagcloud a:focus {
+	color: #fff;
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+}
+.ta_upscr {
+	background: var(--pri-color);
+	border-color: var(--pri-color);
+	color: #fff !important;
+}
+.ta_upscr:hover, .ta_upscr:focus {
+	color: #fff;
+}
+/*form-control*/
+.form-group label {
+    color: #515151;
+}
+.form-control {
+	border-color: #eef3fb;
+}
+.form-control:focus {
+	border-color: var(--pri-color);
+}
+.form-group label::before {
+    background-color: #dddddd;
+}
+.form-group label::after {
+	background-color: var(--pri-color);
+}
+
+
+/*Responsive*/ 
+@media (max-width: 992px) {
+.mg-trhead {
+	background: rgba(0,12,28,0.8);
+}
+}
+@media screen and (min-width: 240px) and (max-width: 767px) {
+.mg-trhead.conte .navbar-wp .navbar-nav > li > a {
+    color: #fff;
+    background: #000;
+}
+}
+.woocommerce-page .products h3 {
+	color: #333;
+}
+.woocommerce div.product .woocommerce-tabs .panel h2 {
+	color: #333;
+}
+.related.products h2 {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	color: #333;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	border-color: #ddd;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	border-color: #ddd;
+}
+
+/*----woocommerce----*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+	border-color: #ebebeb;
+}
+/*-theme-background-*/ 
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+	background: var(--pri-color);
+}
+.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span {
+	background: #ebe9eb;
+	color: #999;
+}
+/*-theme-color-*/ 
+.woocommerce a, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page .products .added_to_cart, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	color: var(--pri-color);
+}
+/*-theme-border-color-*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text:hover, .woocommerce-cart table.cart td.actions .coupon .input-text:focus, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav .woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+	border-color: var(--pri-color);
+}
+
+/*-theme-secondary-background-*/ 
+.woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	background: #002954;
+}
+/*-theme-secondary-color-*/ 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+	color: #161c28;
+}
+/*-theme-color-white-*/ 
+.woocommerce-page .woocommerce .woocommerce-info a, .woocommerce-page .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-message a, .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-error a, .woocommerce-page .woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-info a, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce .woocommerce-info, .woocommerce-cart .wc-proceed-to-checkout a .checkout-button, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	color: #fff;
+}
+
+.woocommerce .products span.onsale, .woocommerce span.onsale {
+	background: var(--pri-color);
+}
+
+.woocommerce-page .products a .price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #000;
+}
+.woocommerce-page .products a .price ins {
+	color: #e96656;
+}
+.woocommerce-page .products .star-rating, .woocommerce-page .star-rating span, .woocommerce-page .stars span a {
+	color: #ffc107;
+}
+
+/*woocommerce-messages*/
+.woocommerce-page .woocommerce-message {
+	background: #2ac56c;
+}
+.woocommerce-page .woocommerce-message a {
+	background-color: var(--pri-color);
+}
+.woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus {
+	background-color: #388e3c;
+}
+.woocommerce-page .woocommerce-error {
+	background: #ff5252;
+}
+.woocommerce-page .woocommerce-error a {
+	background-color: #F47565;
+}
+.woocommerce-page .woocommerce-info {
+	background: #4593e3;
+}
+.woocommerce-page .woocommerce-info a {
+	background-color: #5fb8dd;
+}
+.woocommerce-page .woocommerce .woocommerce-info {
+	background: rgb(58, 176, 226);
+}
+
+/*woocommerce-Price-Slider*/ 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background: var(--pri-color);
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background: var(--pri-color);
+}
+.woocommerce-page .woocommerce-ordering select {
+	color: #A0A0A0;
+}
+/*woocommerce-price-filter*/
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+	background: #1a2128;
+}
+/*woocommerce-form*/
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	border-color: #ccc;
+	color: #999;
+}
+.woocommerce form .form-row label { 
+	color: #222;
+}
+
+.single-nav-links a, .single-nav-links span {
+	background: #fff;
+	color: #999;
+}
+.single-nav-links a.current, .single-nav-links span.current, .single-nav-links a:hover, .single-nav-links span:hover{
+	background: var(--pri-color);
+	color: #fff;
+}
+</style>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Hoje No Mundo Militar &raquo;" href="https://hojenomundomilitar.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Hoje No Mundo Militar &raquo;" href="https://hojenomundomilitar.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Hoje No Mundo Militar &raquo; Suécia e Finlândia em caminhos diferentes para adesão à OTAN" href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.13.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-151412775-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.13.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-151412775-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+															__gtagTracker('config', 'UA-151412775-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hojenomundomilitar.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css' href='https://hojenomundomilitar.com.br/wp-includes/css/dashicons.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://hojenomundomilitar.com.br/wp-includes/css/admin-bar.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://hojenomundomilitar.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='bp-login-form-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/css/blocks/login-form.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-member-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-members/css/blocks/member.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-members-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-members/css/blocks/members.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-dynamic-members-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-members/css/blocks/dynamic-members.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-latest-activities-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-activity/css/blocks/latest-activities.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-friends-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-friends/css/blocks/friends.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-group-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-groups/css/blocks/group.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-groups-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-groups/css/blocks/groups.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-dynamic-groups-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-groups/css/blocks/dynamic-groups.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-sitewide-notices-block-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-messages/css/blocks/sitewide-notices.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://hojenomundomilitar.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://hojenomundomilitar.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://hojenomundomilitar.com.br/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ansar-import-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/ansar-import/public/css/ansar-import-public.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-admin-bar-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css?ver=11.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-nouveau-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-templates/bp-nouveau/css/buddypress.min.css?ver=11.1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='newsup-fonts-css' href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C700%2C800%7CWork%2BSans%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26display%3Dswap&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='newsup-google-fonts-css' href='//fonts.googleapis.com/css?family=ABeeZee%7CAbel%7CAbril+Fatface%7CAclonica%7CAcme%7CActor%7CAdamina%7CAdvent+Pro%7CAguafina+Script%7CAkronim%7CAladin%7CAldrich%7CAlef%7CAlegreya%7CAlegreya+SC%7CAlegreya+Sans%7CAlegreya+Sans+SC%7CAlex+Brush%7CAlfa+Slab+One%7CAlice%7CAlike%7CAlike+Angular%7CAllan%7CAllerta%7CAllerta+Stencil%7CAllura%7CAlmendra%7CAlmendra+Display%7CAlmendra+SC%7CAmarante%7CAmaranth%7CAmatic+SC%7CAmatica+SC%7CAmethysta%7CAmiko%7CAmiri%7CAmita%7CAnaheim%7CAndada%7CAndika%7CAngkor%7CAnnie+Use+Your+Telescope%7CAnonymous+Pro%7CAntic%7CAntic+Didone%7CAntic+Slab%7CAnton%7CArapey%7CArbutus%7CArbutus+Slab%7CArchitects+Daughter%7CArchivo+Black%7CArchivo+Narrow%7CAref+Ruqaa%7CArima+Madurai%7CArimo%7CArizonia%7CArmata%7CArtifika%7CArvo%7CArya%7CAsap%7CAsar%7CAsset%7CAssistant%7CAstloch%7CAsul%7CAthiti%7CAtma%7CAtomic+Age%7CAubrey%7CAudiowide%7CAutour+One%7CAverage%7CAverage+Sans%7CAveria+Gruesa+Libre%7CAveria+Libre%7CAveria+Sans+Libre%7CAveria+Serif+Libre%7CBad+Script%7CBaloo%7CBaloo+Bhai%7CBaloo+Da%7CBaloo+Thambi%7CBalthazar%7CBangers%7CBasic%7CBattambang%7CBaumans%7CBayon%7CBelgrano%7CBelleza%7CBenchNine%7CBentham%7CBerkshire+Swash%7CBevan%7CBigelow+Rules%7CBigshot+One%7CBilbo%7CBilbo+Swash+Caps%7CBioRhyme%7CBioRhyme+Expanded%7CBiryani%7CBitter%7CBlack+Ops+One%7CBokor%7CBonbon%7CBoogaloo%7CBowlby+One%7CBowlby+One+SC%7CBrawler%7CBree+Serif%7CBubblegum+Sans%7CBubbler+One%7CBuda%7CBuenard%7CBungee%7CBungee+Hairline%7CBungee+Inline%7CBungee+Outline%7CBungee+Shade%7CButcherman%7CButterfly+Kids%7CCabin%7CCabin+Condensed%7CCabin+Sketch%7CCaesar+Dressing%7CCagliostro%7CCairo%7CCalligraffitti%7CCambay%7CCambo%7CCandal%7CCantarell%7CCantata+One%7CCantora+One%7CCapriola%7CCardo%7CCarme%7CCarrois+Gothic%7CCarrois+Gothic+SC%7CCarter+One%7CCatamaran%7CCaudex%7CCaveat%7CCaveat+Brush%7CCedarville+Cursive%7CCeviche+One%7CChanga%7CChanga+One%7CChango%7CChathura%7CChau+Philomene+One%7CChela+One%7CChelsea+Market%7CChenla%7CCherry+Cream+Soda%7CCherry+Swash%7CChewy%7CChicle%7CChivo%7CChonburi%7CCinzel%7CCinzel+Decorative%7CClicker+Script%7CCoda%7CCoda+Caption%7CCodystar%7CCoiny%7CCombo%7CComfortaa%7CComing+Soon%7CConcert+One%7CCondiment%7CContent%7CContrail+One%7CConvergence%7CCookie%7CCopse%7CCorben%7CCormorant%7CCormorant+Garamond%7CCormorant+Infant%7CCormorant+SC%7CCormorant+Unicase%7CCormorant+Upright%7CCourgette%7CCousine%7CCoustard%7CCovered+By+Your+Grace%7CCrafty+Girls%7CCreepster%7CCrete+Round%7CCrimson+Text%7CCroissant+One%7CCrushed%7CCuprum%7CCutive%7CCutive+Mono%7CDamion%7CDancing+Script%7CDangrek%7CDavid+Libre%7CDawning+of+a+New+Day%7CDays+One%7CDekko%7CDelius%7CDelius+Swash+Caps%7CDelius+Unicase%7CDella+Respira%7CDenk+One%7CDevonshire%7CDhurjati%7CDidact+Gothic%7CDiplomata%7CDiplomata+SC%7CDomine%7CDonegal+One%7CDoppio+One%7CDorsa%7CDosis%7CDr+Sugiyama%7CDroid+Sans%7CDroid+Sans+Mono%7CDroid+Serif%7CDuru+Sans%7CDynalight%7CEB+Garamond%7CEagle+Lake%7CEater%7CEconomica%7CEczar%7CEk+Mukta%7CEl+Messiri%7CElectrolize%7CElsie%7CElsie+Swash+Caps%7CEmblema+One%7CEmilys+Candy%7CEngagement%7CEnglebert%7CEnriqueta%7CErica+One%7CEsteban%7CEuphoria+Script%7CEwert%7CExo%7CExo+2%7CExpletus+Sans%7CFanwood+Text%7CFarsan%7CFascinate%7CFascinate+Inline%7CFaster+One%7CFasthand%7CFauna+One%7CFederant%7CFedero%7CFelipa%7CFenix%7CFinger+Paint%7CFira+Mono%7CFira+Sans%7CFjalla+One%7CFjord+One%7CFlamenco%7CFlavors%7CFondamento%7CFontdiner+Swanky%7CForum%7CFrancois+One%7CFrank+Ruhl+Libre%7CFreckle+Face%7CFredericka+the+Great%7CFredoka+One%7CFreehand%7CFresca%7CFrijole%7CFruktur%7CFugaz+One%7CGFS+Didot%7CGFS+Neohellenic%7CGabriela%7CGafata%7CGalada%7CGaldeano%7CGalindo%7CGentium+Basic%7CGentium+Book+Basic%7CGeo%7CGeostar%7CGeostar+Fill%7CGermania+One%7CGidugu%7CGilda+Display%7CGive+You+Glory%7CGlass+Antiqua%7CGlegoo%7CGloria+Hallelujah%7CGoblin+One%7CGochi+Hand%7CGorditas%7CGoudy+Bookletter+1911%7CGraduate%7CGrand+Hotel%7CGravitas+One%7CGreat+Vibes%7CGriffy%7CGruppo%7CGudea%7CGurajada%7CHabibi%7CHalant%7CHammersmith+One%7CHanalei%7CHanalei+Fill%7CHandlee%7CHanuman%7CHappy+Monkey%7CHarmattan%7CHeadland+One%7CHeebo%7CHenny+Penny%7CHerr+Von+Muellerhoff%7CHind%7CHind+Guntur%7CHind+Madurai%7CHind+Siliguri%7CHind+Vadodara%7CHoltwood+One+SC%7CHomemade+Apple%7CHomenaje%7CIM+Fell+DW+Pica%7CIM+Fell+DW+Pica+SC%7CIM+Fell+Double+Pica%7CIM+Fell+Double+Pica+SC%7CIM+Fell+English%7CIM+Fell+English+SC%7CIM+Fell+French+Canon%7CIM+Fell+French+Canon+SC%7CIM+Fell+Great+Primer%7CIM+Fell+Great+Primer+SC%7CIceberg%7CIceland%7CImprima%7CInconsolata%7CInder%7CIndie+Flower%7CInika%7CInknut+Antiqua%7CIrish+Grover%7CIstok+Web%7CItaliana%7CItalianno%7CItim%7CJacques+Francois%7CJacques+Francois+Shadow%7CJaldi%7CJim+Nightshade%7CJockey+One%7CJolly+Lodger%7CJomhuria%7CJosefin+Sans%7CJosefin+Slab%7CJoti+One%7CJudson%7CJulee%7CJulius+Sans+One%7CJunge%7CJura%7CJust+Another+Hand%7CJust+Me+Again+Down+Here%7CKadwa%7CKalam%7CKameron%7CKanit%7CKantumruy%7CKarla%7CKarma%7CKatibeh%7CKaushan+Script%7CKavivanar%7CKavoon%7CKdam+Thmor%7CKeania+One%7CKelly+Slab%7CKenia%7CKhand%7CKhmer%7CKhula%7CKite+One%7CKnewave%7CKotta+One%7CKoulen%7CKranky%7CKreon%7CKristi%7CKrona+One%7CKumar+One%7CKumar+One+Outline%7CKurale%7CLa+Belle+Aurore%7CLaila%7CLakki+Reddy%7CLalezar%7CLancelot%7CLateef%7CLato%7CLeague+Script%7CLeckerli+One%7CLedger%7CLekton%7CLemon%7CLemonada%7CLibre+Baskerville%7CLibre+Franklin%7CLife+Savers%7CLilita+One%7CLily+Script+One%7CLimelight%7CLinden+Hill%7CLobster%7CLobster+Two%7CLondrina+Outline%7CLondrina+Shadow%7CLondrina+Sketch%7CLondrina+Solid%7CLora%7CLove+Ya+Like+A+Sister%7CLoved+by+the+King%7CLovers+Quarrel%7CLuckiest+Guy%7CLusitana%7CLustria%7CMacondo%7CMacondo+Swash+Caps%7CMada%7CMagra%7CMaiden+Orange%7CMaitree%7CMako%7CMallanna%7CMandali%7CMarcellus%7CMarcellus+SC%7CMarck+Script%7CMargarine%7CMarko+One%7CMarmelad%7CMartel%7CMartel+Sans%7CMarvel%7CMate%7CMate+SC%7CMaven+Pro%7CMcLaren%7CMeddon%7CMedievalSharp%7CMedula+One%7CMeera+Inimai%7CMegrim%7CMeie+Script%7CMerienda%7CMerienda+One%7CMerriweather%7CMerriweather+Sans%7CMetal%7CMetal+Mania%7CMetamorphous%7CMetrophobic%7CMichroma%7CMilonga%7CMiltonian%7CMiltonian+Tattoo%7CMiniver%7CMiriam+Libre%7CMirza%7CMiss+Fajardose%7CMitr%7CModak%7CModern+Antiqua%7CMogra%7CMolengo%7CMolle%7CMonda%7CMonofett%7CMonoton%7CMonsieur+La+Doulaise%7CMontaga%7CMontez%7CMontserrat%7CMontserrat+Alternates%7CMontserrat+Subrayada%7CMoul%7CMoulpali%7CMountains+of+Christmas%7CMouse+Memoirs%7CMr+Bedfort%7CMr+Dafoe%7CMr+De+Haviland%7CMrs+Saint+Delafield%7CMrs+Sheppards%7CMukta+Vaani%7CMuli%7CMystery+Quest%7CNTR%7CNeucha%7CNeuton%7CNew+Rocker%7CNews+Cycle%7CNiconne%7CNixie+One%7CNobile%7CNokora%7CNorican%7CNosifer%7CNothing+You+Could+Do%7CNoticia+Text%7CNoto+Sans%7CNoto+Serif%7CNova+Cut%7CNova+Flat%7CNova+Mono%7CNova+Oval%7CNova+Round%7CNova+Script%7CNova+Slim%7CNova+Square%7CNumans%7CNunito%7COdor+Mean+Chey%7COffside%7COld+Standard+TT%7COldenburg%7COleo+Script%7COleo+Script+Swash+Caps%7COpen+Sans%7COpen+Sans+Condensed%7COranienbaum%7COrbitron%7COregano%7COrienta%7COriginal+Surfer%7COswald%7COver+the+Rainbow%7COverlock%7COverlock+SC%7COvo%7COxygen%7COxygen+Mono%7CPT+Mono%7CPT+Sans%7CPT+Sans+Caption%7CPT+Sans+Narrow%7CPT+Serif%7CPT+Serif+Caption%7CPacifico%7CPalanquin%7CPalanquin+Dark%7CPaprika%7CParisienne%7CPassero+One%7CPassion+One%7CPathway+Gothic+One%7CPatrick+Hand%7CPatrick+Hand+SC%7CPattaya%7CPatua+One%7CPavanam%7CPaytone+One%7CPeddana%7CPeralta%7CPermanent+Marker%7CPetit+Formal+Script%7CPetrona%7CPhilosopher%7CPiedra%7CPinyon+Script%7CPirata+One%7CPlaster%7CPlay%7CPlayball%7CPlayfair+Display%7CPlayfair+Display+SC%7CPodkova%7CPoiret+One%7CPoller+One%7CPoly%7CPompiere%7CPontano+Sans%7CPoppins%7CPort+Lligat+Sans%7CPort+Lligat+Slab%7CPragati+Narrow%7CPrata%7CPreahvihear%7CPress+Start+2P%7CPridi%7CPrincess+Sofia%7CProciono%7CPrompt%7CProsto+One%7CProza+Libre%7CPuritan%7CPurple+Purse%7CQuando%7CQuantico%7CQuattrocento%7CQuattrocento+Sans%7CQuestrial%7CQuicksand%7CQuintessential%7CQwigley%7CRacing+Sans+One%7CRadley%7CRajdhani%7CRakkas%7CRaleway%7CRaleway+Dots%7CRamabhadra%7CRamaraja%7CRambla%7CRammetto+One%7CRanchers%7CRancho%7CRanga%7CRasa%7CRationale%7CRavi+Prakash%7CRedressed%7CReem+Kufi%7CReenie+Beanie%7CRevalia%7CRhodium+Libre%7CRibeye%7CRibeye+Marrow%7CRighteous%7CRisque%7CRoboto%7CRoboto+Condensed%7CRoboto+Mono%7CRoboto+Slab%7CRochester%7CRock+Salt%7CRokkitt%7CRomanesco%7CRopa+Sans%7CRosario%7CRosarivo%7CRouge+Script%7CRozha+One%7CRubik%7CRubik+Mono+One%7CRubik+One%7CRuda%7CRufina%7CRuge+Boogie%7CRuluko%7CRum+Raisin%7CRuslan+Display%7CRusso+One%7CRuthie%7CRye%7CSacramento%7CSahitya%7CSail%7CSalsa%7CSanchez%7CSancreek%7CSansita+One%7CSarala%7CSarina%7CSarpanch%7CSatisfy%7CScada%7CScheherazade%7CSchoolbell%7CScope+One%7CSeaweed+Script%7CSecular+One%7CSevillana%7CSeymour+One%7CShadows+Into+Light%7CShadows+Into+Light+Two%7CShanti%7CShare%7CShare+Tech%7CShare+Tech+Mono%7CShojumaru%7CShort+Stack%7CShrikhand%7CSiemreap%7CSigmar+One%7CSignika%7CSignika+Negative%7CSimonetta%7CSintony%7CSirin+Stencil%7CSix+Caps%7CSkranji%7CSlabo+13px%7CSlabo+27px%7CSlackey%7CSmokum%7CSmythe%7CSniglet%7CSnippet%7CSnowburst+One%7CSofadi+One%7CSofia%7CSonsie+One%7CSorts+Mill+Goudy%7CSource+Code+Pro%7CSource+Sans+Pro%7CSource+Serif+Pro%7CSpace+Mono%7CSpecial+Elite%7CSpicy+Rice%7CSpinnaker%7CSpirax%7CSquada+One%7CSree+Krushnadevaraya%7CSriracha%7CStalemate%7CStalinist+One%7CStardos+Stencil%7CStint+Ultra+Condensed%7CStint+Ultra+Expanded%7CStoke%7CStrait%7CSue+Ellen+Francisco%7CSuez+One%7CSumana%7CSunshiney%7CSupermercado+One%7CSura%7CSuranna%7CSuravaram%7CSuwannaphum%7CSwanky+and+Moo+Moo%7CSyncopate%7CTangerine%7CTaprom%7CTauri%7CTaviraj%7CTeko%7CTelex%7CTenali+Ramakrishna%7CTenor+Sans%7CText+Me+One%7CThe+Girl+Next+Door%7CTienne%7CTillana%7CTimmana%7CTinos%7CTitan+One%7CTitillium+Web%7CTrade+Winds%7CTrirong%7CTrocchi%7CTrochut%7CTrykker%7CTulpen+One%7CUbuntu%7CUbuntu+Condensed%7CUbuntu+Mono%7CUltra%7CUncial+Antiqua%7CUnderdog%7CUnica+One%7CUnifrakturCook%7CUnifrakturMaguntia%7CUnkempt%7CUnlock%7CUnna%7CVT323%7CVampiro+One%7CVarela%7CVarela+Round%7CVast+Shadow%7CVesper+Libre%7CVibur%7CVidaloka%7CViga%7CVoces%7CVolkhov%7CVollkorn%7CVoltaire%7CWaiting+for+the+Sunrise%7CWallpoet%7CWalter+Turncoat%7CWarnes%7CWellfleet%7CWendy+One%7CWire+One%7CWork+Sans%7CYanone+Kaffeesatz%7CYantramanav%7CYatra+One%7CYellowtail%7CYeseva+One%7CYesteryear%7CYrsa%7CZeyada&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/bootstrap.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsup-style-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/style.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='light-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/colors/light.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/font-awesome/css/all.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/font-awesome/css/v4-shims.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-bundle-min-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/swiper-bundle.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmenus-css' href='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/css/jquery.smartmenus.bootstrap.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/newsletter/style.css?ver=7.6.8' type='text/css' media='all' />
+<style id='newsletter-inline-css' type='text/css'>
+Assine a lista da MasterClass do Marcelo Rios com o tema "Por que a Primeira Guerra é mais importante  que a Segunda?". 
+A aula será no dia 19 de março, às 20 horas. Os inscritos receberão o link para assistir a aula, que ficará disponível por um tempo limitado.
+</style>
+<link rel='stylesheet' id='social-logos-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://hojenomundomilitar.com.br/wp-content/plugins/jetpack/css/jetpack.css?ver=11.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.13.1' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/hojenomundomilitar.com.br","hash_tracking":"false","ua":"UA-151412775-1","v4_id":""};/* ]]> */
+</script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/ansar-import/public/js/ansar-import-public.js?ver=1.0.5' id='ansar-import-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=11.1.0' id='bp-widget-members-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=11.1.0' id='bp-jquery-query-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=11.1.0' id='bp-jquery-cookie-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=11.1.0' id='bp-jquery-scroll-to-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/navigation.js?ver=6.1.1' id='newsup-navigation-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/bootstrap.js?ver=6.1.1' id='newsup_bootstrap_script-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/jquery.marquee.min.js?ver=6.1.1' id='newsup_marquee-js-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/main.js?ver=6.1.1' id='newsup_main-js-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/jquery.smartmenus.js?ver=6.1.1' id='smartmenus-js-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/bootstrap-smartmenus.js?ver=6.1.1' id='bootstrap-smartmenus-js-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/swiper-bundle.min.js?ver=6.1.1' id='swiper-bundle-min-js'></script>
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-219150472-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["hojenomundomilitar.com.br"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-219150472-1", {"anonymize_ip":true});
+gtag("config", "G-2V2XCX5MPY");
+</script>
+
+<!-- Finalizar o snippet do Google Analytics adicionado pelo Site Kit -->
+<link rel="https://api.w.org/" href="https://hojenomundomilitar.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://hojenomundomilitar.com.br/wp-json/wp/v2/posts/44162" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hojenomundomilitar.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://hojenomundomilitar.com.br/wp-includes/wlwmanifest.xml" />
+<link rel="canonical" href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" />
+<link rel='shortlink' href='https://hojenomundomilitar.com.br/?p=44162' />
+<link rel="alternate" type="application/json+oembed" href="https://hojenomundomilitar.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhojenomundomilitar.com.br%2Fsuecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hojenomundomilitar.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhojenomundomilitar.com.br%2Fsuecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'https://hojenomundomilitar.com.br/wp-admin/admin-ajax.php';</script>
+
+<meta name="generator" content="Site Kit by Google 1.96.0" />	<style>img#wpstats{display:none}</style>
+		<link rel="pingback" href="https://hojenomundomilitar.com.br/xmlrpc.php"><style type="text/css" id="custom-background-css">
+    .wrapper { background: 000000; }
+</style>
+
+<!-- Snippet do Google Adsense adicionado pelo Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Finalizar o snippet do Google Adsense adicionado pelo Site Kit -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>    <style type="text/css">
+            .site-title,
+        .site-description {
+            position: absolute;
+            clip: rect(1px, 1px, 1px, 1px);
+        }
+        </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	
+<!-- Snippet do Google Adsense adicionado pelo Site Kit -->
+<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4753595015667034&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous" type="text/javascript"></script>
+
+<!-- Finalizar o snippet do Google Adsense adicionado pelo Site Kit -->
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suécia e Finlândia em caminhos diferentes para adesão à OTAN" />
+<meta property="og:url" content="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" />
+<meta property="og:description" content="Enquanto a Suécia continua a esperar pelo próximo passo em seu processo de inscrição na OTAN sem novas reuniões agendadas com a Hungria ou a Turquia, a Finlândia está avançando em sua tentativa de …" />
+<meta property="article:published_time" content="2023-03-21T18:00:00+00:00" />
+<meta property="article:modified_time" content="2023-03-21T09:29:42+00:00" />
+<meta property="og:site_name" content="Hoje No Mundo Militar" />
+<meta property="og:image" content="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg?fit=800%2C450&#038;ssl=1" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="450" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="pt_BR" />
+<meta name="twitter:site" content="@hoje_no" />
+<meta name="twitter:text:title" content="Suécia e Finlândia em caminhos diferentes para adesão à OTAN" />
+<meta name="twitter:image" content="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg?fit=800%2C450&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-logo-colorido.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-logo-colorido.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-logo-colorido.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-logo-colorido.jpg?fit=270%2C270&#038;ssl=1" />
+</head>
+<body class="bp-nouveau post-template-default single single-post postid-44162 single-format-standard admin-bar no-customize-support custom-background wp-custom-logo boxed  ta-hide-date-author-in-list no-js" >
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de ferramentas">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Sobre o WordPress</span></div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://br.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://br.wordpress.org/support/'>Documentação</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://br.wordpress.org/support/forums/'>Suporte</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-bp-login'><a class='ab-item' href='https://hojenomundomilitar.com.br/wp-login.php?redirect_to=https%3A%2F%2Fhojenomundomilitar.com.br%2Fsuecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan%2F'>Login</a></li><li id='wp-admin-bar-admin-bar-likes-widget'><div class="ab-item ab-empty-item"></div><iframe class='admin-bar-likes-widget jetpack-likes-widget' scrolling='no' frameBorder='0' name='admin-bar-likes-widget' src='https://widgets.wp.com/likes/#blog_id=168826001&amp;post_id=44162&amp;origin=https://hojenomundomilitar.com.br'></iframe></li><li id='wp-admin-bar-bluehost-support'><a class='ab-item' href='https://hojenomundomilitar.com.br/wp-admin/admin.php?page=bluehost#/help'>Need help?</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://hojenomundomilitar.com.br/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Pesquisar</label><input type="submit" class="adminbar-button" value="Pesquisar" /></form></div></li></ul>			</div>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+<a class="skip-link screen-reader-text" href="#content">
+Skip to content</a>
+<!--wrapper-->
+    <div class="wrapper" id="custom-background-css">
+            <header class="mg-headwidget">
+            <!--==================== TOP BAR ====================-->
+
+            <div class="mg-head-detail hidden-xs">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+                        <div class="col-md-6 col-xs-12 col-sm-6">
+                <ul class="info-left">
+                            <li>22/03/2023            <span class="time">  3:07 pm</span>
+                    </li>
+
+
+                   </ul>
+            </div>
+            <div class="col-md-6 col-xs-12">
+              
+                <ul class="mg-social info-right justify-content-center justify-content-md-end">
+                    
+                                            <li><span class="icon-soci facebook"><a  target="_blank" href="https://www.facebook.com/HojenoMundoMilitar"><i class="fab fa-facebook"></i></a></span> </li>
+                                            <li><span class="icon-soci twitter"><a target="_blank" href="https://twitter.com/hoje_no"><i class="fab fa-twitter"></i></a></span></li>
+                                            <li><span class="icon-soci instagram"><a target="_blank"  href="https://www.instagram.com/hojenomundomilitar/"><i class="fab fa-instagram"></i></a></span></li>
+                                            <li><span class="icon-soci youtube"><a target="_blank"  href="https://www.youtube.com/c/HojenoMundoMilitar"><i class="fab fa-youtube"></i></a></span></li>
+                                            <li><span class="icon-soci telegram"><a target="_blank"  href="https://t.me/hojeno_mundomilitar"><i class="fab fa-telegram"></i></a></span></li>
+                                      </ul>
+                            </div>
+        </div>
+    </div>
+</div>
+            <div class="clearfix"></div>
+                        <div class="mg-nav-widget-area-back" style='background-image: url("https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/images/head-back.jpg" );'>
+
+            <div class="overlay">
+                          <div class="inner"   style="background-color:#000000;" >
+                <div class="container-fluid">
+                    <div class="mg-nav-widget-area">
+                        <div class="row align-items-center">
+                                                        <div class="col-md-3 col-sm-4 text-center-xs">
+                                                                <div class="navbar-header">
+                                <a href="https://hojenomundomilitar.com.br/" class="navbar-brand" rel="home"><img width="1500" height="1500" src="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?fit=1500%2C1500&amp;ssl=1" class="custom-logo" alt="Hoje No Mundo Militar" decoding="async" srcset="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=1320%2C1320&amp;ssl=1 1320w" sizes="(max-width: 1500px) 100vw, 1500px" /></a>                                </div>
+                            </div>
+                                                                                   <div class="col-md-9 col-sm-8">
+                                                <div class="header-ads pull-right text-right">
+                            <a href="https://www.youtube.com/c/HojenoMundoMilitar" target="_blank">
+                            <img width="1000" height="166" src="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-CAPA-FACEBOOK-e1667466571629-1.png?fit=1000%2C166&amp;ssl=1" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-CAPA-FACEBOOK-e1667466571629-1.png?w=1000&amp;ssl=1 1000w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-CAPA-FACEBOOK-e1667466571629-1.png?resize=300%2C50&amp;ssl=1 300w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-CAPA-FACEBOOK-e1667466571629-1.png?resize=768%2C127&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" />                        </a>
+                        </div>
+                    </div>
+                            
+                        </div>
+                    </div>
+                </div>
+              </div>
+              </div>
+          </div>
+
+
+    <div class="mg-menu-full">
+            <nav class="navbar navbar-expand-lg navbar-wp">
+              <div class="container-fluid flex-row-reverse">
+                <!-- Right nav -->
+                <div class="m-header d-flex pl-3 ml-auto my-2 my-lg-0 position-relative align-items-center">
+                  <a class="mobilehomebtn" title="Home" href="https://hojenomundomilitar.com.br/"><span class="fas fa-home"></span></a>
+                  <!-- navbar-toggle -->
+                  <button class="navbar-toggler collapsed mx-auto" type="button" data-toggle="collapse" data-target="#navbar-wp" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="my-1 mx-2 close fas fa-times"></span>
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <!-- /navbar-toggle -->
+                  <div class="dropdown show mg-search-box">
+                    <a class="dropdown-toggle msearch ml-auto" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-search"></i> </a>
+                    <div class="dropdown-menu searchinner" aria-labelledby="dropdownMenuLink">
+                      <form role="search" method="get" id="searchform" action="https://hojenomundomilitar.com.br/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="Search" value="" name="s" />
+    <span class="input-group-btn btn-default">
+    <button type="submit" class="btn"> <i class="fas fa-search"></i> </button>
+    </span> </div>
+</form>                    </div>
+                  </div>
+                </div>
+                <!-- /Right nav -->
+                <div class="collapse navbar-collapse" id="navbar-wp">
+                  <ul id="menu-menu" class="nav navbar-nav"><li class="active home"><a class="homebtn nav-link" title="Home" href="https://hojenomundomilitar.com.br"><span class='fas fa-home'></span></a></li><li id="menu-item-419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419 dropdown"><a class="nav-link" title="Artigos" href="https://hojenomundomilitar.com.br/category/artigos/" data-toggle="dropdown" class="dropdown-toggle">Artigos </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-30706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30706"><a class="dropdown-item" title="Artigos" href="https://hojenomundomilitar.com.br/category/artigos/">Artigos</a></li>
+	<li id="menu-item-26287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26287"><a class="dropdown-item" title="Artigo de opinião" href="https://hojenomundomilitar.com.br/category/artigo-de-opiniao/">Artigo de opinião</a></li>
+</ul>
+</li>
+<li id="menu-item-14106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14106"><a class="nav-link" title="Biografia" href="https://hojenomundomilitar.com.br/category/biografia/">Biografia</a></li>
+<li id="menu-item-40976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40976"><a class="nav-link" title="Boletim de Guerra" href="https://hojenomundomilitar.com.br/category/boletim-de-guerra/">Boletim de Guerra</a></li>
+<li id="menu-item-28242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28242 dropdown"><a class="nav-link" title="Colunistas" href="https://hojenomundomilitar.com.br/category/colunistas/" data-toggle="dropdown" class="dropdown-toggle">Colunistas </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-30123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30123"><a class="dropdown-item" title="André Possoli" href="https://hojenomundomilitar.com.br/category/andre-possoli/">André Possoli</a></li>
+	<li id="menu-item-36366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36366"><a class="dropdown-item" title="Angelo Nicolaci" href="https://hojenomundomilitar.com.br/category/angelo-nicolaci/">Angelo Nicolaci</a></li>
+	<li id="menu-item-29889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29889"><a class="dropdown-item" title="Barbara Martinelli" href="https://hojenomundomilitar.com.br/category/barbara-martinelli/">Barbara Martinelli</a></li>
+	<li id="menu-item-30704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30704"><a class="dropdown-item" title="Carlos Poggio" href="https://hojenomundomilitar.com.br/category/carlos-poggio/">Carlos Poggio</a></li>
+	<li id="menu-item-30697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30697"><a class="dropdown-item" title="Carlos Ferreira" href="https://hojenomundomilitar.com.br/category/carlos-ferreira/">Carlos Ferreira</a></li>
+	<li id="menu-item-30703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30703"><a class="dropdown-item" title="Danilo Miranda" href="https://hojenomundomilitar.com.br/category/danilo-miranda/">Danilo Miranda</a></li>
+	<li id="menu-item-30701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30701"><a class="dropdown-item" title="De Leon Petta" href="https://hojenomundomilitar.com.br/category/de-leon-petta/">De Leon Petta</a></li>
+	<li id="menu-item-28298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28298"><a class="dropdown-item" title="Coluna do Professor" href="https://hojenomundomilitar.com.br/category/coluna-do-professor/">Coluna do Professor</a></li>
+	<li id="menu-item-30699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30699"><a class="dropdown-item" title="Fernando Montenegro" href="https://hojenomundomilitar.com.br/category/fernando-montenegro/">Fernando Montenegro</a></li>
+	<li id="menu-item-30115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30115"><a class="dropdown-item" title="Isabel Macedo" href="https://hojenomundomilitar.com.br/category/isabel-macedo/">Isabel Macedo</a></li>
+	<li id="menu-item-30125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30125"><a class="dropdown-item" title="João Diego" href="https://hojenomundomilitar.com.br/category/joao-diego/">João Diego</a></li>
+	<li id="menu-item-30121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30121"><a class="dropdown-item" title="João Paulo Alves" href="https://hojenomundomilitar.com.br/category/joao-paulo-alves/">João Paulo Alves</a></li>
+	<li id="menu-item-30124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30124"><a class="dropdown-item" title="Luiz Lima" href="https://hojenomundomilitar.com.br/category/luiz-lima/">Luiz Lima</a></li>
+	<li id="menu-item-30698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30698"><a class="dropdown-item" title="Renato Marçal" href="https://hojenomundomilitar.com.br/category/renato-marcal/">Renato Marçal</a></li>
+	<li id="menu-item-30126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30126"><a class="dropdown-item" title="Tiago Pedreiro" href="https://hojenomundomilitar.com.br/category/tiago-pedreiro/">Tiago Pedreiro</a></li>
+	<li id="menu-item-30122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30122"><a class="dropdown-item" title="Wallace Mesquita" href="https://hojenomundomilitar.com.br/category/wallace-mesquita/">Wallace Mesquita</a></li>
+</ul>
+</li>
+<li id="menu-item-14105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14105"><a class="nav-link" title="Entrevista" href="https://hojenomundomilitar.com.br/category/entrevista/">Entrevista</a></li>
+<li id="menu-item-36063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36063"><a class="nav-link" title="Hoje na história militar" href="https://hojenomundomilitar.com.br/category/hoje-na-historia-militar/">Hoje na história militar</a></li>
+<li id="menu-item-32379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32379"><a class="nav-link" title="Newsletter" href="https://hojenomundomilitar.com.br/newsletter/">Newsletter</a></li>
+<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-363"><a class="nav-link" title="Notícias" href="https://hojenomundomilitar.com.br/category/noticias/">Notícias</a></li>
+<li id="menu-item-14103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14103 dropdown"><a class="nav-link" title="Séries" href="https://hojenomundomilitar.com.br/series/" data-toggle="dropdown" class="dropdown-toggle">Séries </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-23082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23082"><a class="dropdown-item" title="A influência chinesa" href="https://hojenomundomilitar.com.br/category/a-influencia-chinesa/">A influência chinesa</a></li>
+	<li id="menu-item-26285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26285"><a class="dropdown-item" title="Armas hipersônicas" href="https://hojenomundomilitar.com.br/category/armas-hipersonicas/">Armas hipersônicas</a></li>
+	<li id="menu-item-36101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36101"><a class="dropdown-item" title="Armas Icônicas" href="https://hojenomundomilitar.com.br/category/armas-iconicas/">Armas Icônicas</a></li>
+	<li id="menu-item-19559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19559"><a class="dropdown-item" title="BID" href="https://hojenomundomilitar.com.br/category/bid/">BID</a></li>
+	<li id="menu-item-34660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34660"><a class="dropdown-item" title="Crimes transnacionais" href="https://hojenomundomilitar.com.br/category/crimes-transnacionais/">Crimes transnacionais</a></li>
+	<li id="menu-item-26286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26286"><a class="dropdown-item" title="Brasil 200 anos de independência" href="https://hojenomundomilitar.com.br/category/brasil-200-anos-de-independencia/">Brasil 200 anos de independência</a></li>
+	<li id="menu-item-14109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14109"><a class="dropdown-item" title="Drones brasileiros" href="https://hojenomundomilitar.com.br/category/drones-brasileiros/">Drones brasileiros</a></li>
+	<li id="menu-item-26288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26288"><a class="dropdown-item" title="DIH" href="https://hojenomundomilitar.com.br/category/dih/">DIH</a></li>
+	<li id="menu-item-14108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14108"><a class="dropdown-item" title="Estratégia" href="https://hojenomundomilitar.com.br/category/estrategia/">Estratégia</a></li>
+	<li id="menu-item-39685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39685"><a class="dropdown-item" title="Estratégias de Defesa Assimétrica" href="https://hojenomundomilitar.com.br/category/estrategias-de-defesa-assimetrica/">Estratégias de Defesa Assimétrica</a></li>
+	<li id="menu-item-19560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19560"><a class="dropdown-item" title="Medalhas" href="https://hojenomundomilitar.com.br/category/medalhas/">Medalhas</a></li>
+	<li id="menu-item-34934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34934"><a class="dropdown-item" title="O filho que a américa quer esquecer" href="https://hojenomundomilitar.com.br/category/o-filho-que-a-america-quer-esquecer/">O filho que a américa quer esquecer</a></li>
+	<li id="menu-item-30201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30201"><a class="dropdown-item" title="O Fim da Democracia" href="https://hojenomundomilitar.com.br/category/o-fim-da-democracia/">O Fim da Democracia</a></li>
+	<li id="menu-item-27275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27275"><a class="dropdown-item" title="O fim do mundo que conhecemos" href="https://hojenomundomilitar.com.br/category/o-fim-do-mundo-que-conhecemos/">O fim do mundo que conhecemos</a></li>
+	<li id="menu-item-14107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14107"><a class="dropdown-item" title="Propaganda de Guerra" href="https://hojenomundomilitar.com.br/category/propaganda-de-guerra/">Propaganda de Guerra</a></li>
+	<li id="menu-item-26290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26290"><a class="dropdown-item" title="Segunda Guerra Mundial" href="https://hojenomundomilitar.com.br/category/segunda-guerra-mundial/">Segunda Guerra Mundial</a></li>
+</ul>
+</li>
+<li id="menu-item-39686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39686"><a class="nav-link" title="Segurança Pública" href="https://hojenomundomilitar.com.br/category/seguranca-publica/">Segurança Pública</a></li>
+</ul>              </div>
+          </div>
+      </nav> <!-- /Navigation -->
+    </div>
+</header>
+  <div class="clearfix"></div>
+<!-- =========================
+     Page Content Section      
+============================== -->
+<main id="content">
+    <!--container-->
+    <div class="container-fluid">
+      <!--row-->
+      <div class="row">
+        <!--col-md-->
+                                                <div class="col-md-9 col-sm-8">
+                                          <div class="mg-blog-post-box"> 
+              <div class="mg-header">
+                                <div class="mg-blog-category"> 
+                                      
+                                            <a href="https://hojenomundomilitar.com.br/category/noticias/" style="">
+                            Notícias                        </a>
+                                                        </div>
+                                <h1 class="title"> <a href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" title="Permalink to: Suécia e Finlândia em caminhos diferentes para adesão à OTAN">
+                  Suécia e Finlândia em caminhos diferentes para adesão à OTAN</a>
+                </h1>
+
+                <div class="media mg-info-author-block"> 
+                                    <a class="mg-author-pic" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"> <img alt='' src='//www.gravatar.com/avatar/ac2d931e308813b9a0e9b69863e2dcae?s=150&#038;r=g&#038;d=mm' srcset='//www.gravatar.com/avatar/ac2d931e308813b9a0e9b69863e2dcae?s=150&#038;r=g&#038;d=mm 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/> </a>
+                                  <div class="media-body">
+                                        <h4 class="media-heading"><span>By</span><a href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/">Marcelo Rios</a></h4>
+                                                            <span class="mg-blog-date"><i class="fas fa-clock"></i> 
+                      mar 21, 2023</span>
+                                        <span class="newsup-tags"><i class="fas fa-tag"></i>
+                      <a href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/"><a href="https://hojenomundomilitar.com.br/tag/finlandia/" rel="tag">Finlândia</a>, <a href="https://hojenomundomilitar.com.br/tag/otan/" rel="tag">OTAN</a>, <a href="https://hojenomundomilitar.com.br/tag/suecia/" rel="tag">Suécia</a></a>
+                    </span>
+                                    </div>
+                </div>
+              </div>
+              <a class="mg-blog-thumb" href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/"><img width="800" height="450" src="https://hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg" class="img-fluid wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/21-03-15h00.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>              <article class="small single">
+                
+<p>Enquanto a Suécia continua a esperar pelo próximo passo em seu processo de inscrição na OTAN sem novas reuniões agendadas com a Hungria ou a Turquia, a Finlândia está avançando em sua tentativa de ingressar na Aliança.</p>
+
+
+
+<p>A Suécia e a Finlândia solicitaram simultaneamente a adesão à OTAN em 18 de maio de 2022, e as ratificações da Hungria e da Turquia ainda estão pendentes. Budapeste prometeu a ratificação até o final de março, enquanto a Turquia até agora só prometeu ratificar o pedido da Finlândia, provavelmente antes do fechamento do parlamento turco em 7 de abril, antes das eleições em meados de maio.</p>
+
+
+
+<p>Mesmo que o secretário-geral da OTAN, Jens Stoltenberg, tenha prometido que a adesão da Suécia é agora uma “prioridade máxima” para a Aliança, parece impossível mudar a opinião do governo turco.</p>
+
+
+
+<p>A questão é a recusa das autoridades suecas em extraditar membros da oposição turca, principalmente curdos, que se refugiaram em seu território e a queima de Alcorões por um ativista de extrema-direita.</p>
+
+
+
+<p>O presidente turco Recep Tayyip Erdogan também declarou no início de fevereiro que não aceitaria o pedido da Suécia se Estocolmo não proibisse a queima do Alcorão, o que o governo sueco até agora se recusou a fazer.</p>
+
+
+
+<p>“Estamos onde estamos”, disse o ministro das Relações Exteriores da Suécia, Tobias Billström, na segunda-feira, antes de uma reunião em Bruxelas.</p>
+
+
+
+<p>Tanto Billström como o seu homólogo turco, Mevlüt Cavusoglu, estiveram em Bruxelas durante o dia, mas não houve reuniões individuais para discutir o processo da OTAN na Suécia.</p>
+
+
+
+<p>“Estamos cientes das respectivas posições de cada um, e elas permanecem inalteradas. Portanto, não vemos necessidade de mais discussões”, disse Billström.</p>
+
+
+
+<p>Também não há reuniões extras planejadas com a Hungria para esclarecer a situação em relação à ratificação de Budapeste da adesão da Suécia e da Finlândia.</p>
+
+
+
+<p>“Enquanto não ouvimos mais nada, assumimos que seremos ratificados. Achamos que esta é uma suposição razoável”, acrescentou Billström.</p>
+
+
+
+<p>Ainda na quinta-feira, assumiu-se que a Hungria ratificaria as candidaturas nórdicas no mesmo dia – 31 de março – mas, na sexta-feira, o líder do partido governista, Fidesz, escreveu que a aprovação da Finlândia seria feita mais cedo, no dia 27 de Março.</p>
+
+
+
+<p>Enquanto a Suécia está estagnada, o homólogo finlandês de Billström, Pekka Haavisto, e o ministro finlandês da Defesa, Antti Kaikkonen, visitaram a sede da OTAN na segunda-feira para uma reunião extraordinária com Stoltenberg.</p>
+
+
+
+<p>A reunião aconteceu depois que a Turquia prometeu ratificar a adesão da Finlândia na sexta-feira.</p>
+
+
+
+<p>“Nossa adesão não estará completa até que a Suécia também seja membro. Compartilhamos o mesmo ambiente de segurança, compartilhamos o Mar Báltico e é muito importante que a Suécia também se torne membro”, afirmou o ministro finlandês das Relações Exteriores.</p>
+
+
+
+<p>Tanto a Finlândia quanto a OTAN estão pressionando fortemente para que a Suécia se junte.</p>
+
+
+
+<p>Fonte: euractiv <a href="https://www.euractiv.com/section/politics/news/sweden-finland-on-different-tracks-for-nato-accession/">https://www.euractiv.com/section/politics/news/sweden-finland-on-different-tracks-for-nato-accession/</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" data-text="Suécia e Finlândia em caminhos diferentes para adesão à OTAN" data-via="hoje_no" >Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" data-layout="button_count"></div></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button" href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/?share=telegram" target="_blank" title="Clique para compartilhar no Telegram" ><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button" href="https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/?share=jetpack-whatsapp" target="_blank" title="Clique para compartilhar no WhatsApp" ><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-168826001-44162-641b43df067cc' data-src='https://widgets.wp.com/likes/#blog_id=168826001&amp;post_id=44162&amp;origin=hojenomundomilitar.com.br&amp;obj_id=168826001-44162-641b43df067cc' data-name='like-post-frame-168826001-44162-641b43df067cc' data-title='Curtir ou reblogar'><h3 class="sd-title">Curtir isso:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Curtir</span></span> <span class="loading">Carregando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>                                                     <script>
+    function pinIt()
+    {
+      var e = document.createElement('script');
+      e.setAttribute('type','text/javascript');
+      e.setAttribute('charset','UTF-8');
+      e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+      document.body.appendChild(e);
+    }
+    </script>
+                     <div class="post-share">
+                          <div class="post-share-icons cf">
+                           
+                              <a href="https://www.facebook.com/sharer.php?u=https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" class="link facebook" target="_blank" >
+                                <i class="fab fa-facebook"></i></a>
+                            
+            
+                              <a href="http://twitter.com/share?url=https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/&#038;text=Su%C3%A9cia%20e%20Finl%C3%A2ndia%20em%20caminhos%20diferentes%20para%20ades%C3%A3o%20%C3%A0%20OTAN" class="link twitter" target="_blank">
+                                <i class="fab fa-twitter"></i></a>
+            
+                              <a href="mailto:?subject=Suécia%20e%20Finlândia%20em%20caminhos%20diferentes%20para%20adesão%20à%20OTAN&#038;body=https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/" class="link email" target="_blank" >
+                                <i class="fas fa-envelope"></i></a>
+
+
+                              <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://hojenomundomilitar.com.br/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/&#038;title=Su%C3%A9cia%20e%20Finl%C3%A2ndia%20em%20caminhos%20diferentes%20para%20ades%C3%A3o%20%C3%A0%20OTAN" class="link linkedin" target="_blank" >
+                                <i class="fab fa-linkedin"></i></a>
+
+                              <a href="javascript:pinIt();" class="link pinterest"><i class="fab fa-pinterest"></i></a>    
+                          </div>
+                    </div>
+
+                <div class="clearfix mb-3"></div>
+                
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Navegação de Post</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://hojenomundomilitar.com.br/basta-eua-pedem-acao-do-conselho-de-seguranca-da-onu-sobre-lancamentos-de-misseis-da-coreia-do-norte/" rel="prev">&#8216;Basta&#8217;: EUA pedem ação do Conselho de Segurança da ONU sobre lançamentos de mísseis da Coreia do Norte <div class="fas fa-angle-double-right"></div><span></span></a></div><div class="nav-next"><a href="https://hojenomundomilitar.com.br/china-e-russia-culpam-os-eua-pelos-programas-de-misseis-nucleares-da-coreia-do-norte/" rel="next"><div class="fas fa-angle-double-left"></div><span></span> China e Rússia culpam os EUA pelos programas de mísseis nucleares da Coreia do Norte</a></div></div>
+	</nav>                          </article>
+            </div>
+          
+           <div class="media mg-info-author-block">
+                        <a class="mg-author-pic" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"><img alt='' src='//www.gravatar.com/avatar/ac2d931e308813b9a0e9b69863e2dcae?s=150&#038;r=g&#038;d=mm' srcset='//www.gravatar.com/avatar/ac2d931e308813b9a0e9b69863e2dcae?s=150&#038;r=g&#038;d=mm 2x' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' decoding='async'/></a>
+                <div class="media-body">
+                  <h4 class="media-heading">By <a href ="https://hojenomundomilitar.com.br/author/hojenomundomilitar/">Marcelo Rios</a></h4>
+                  <p>Criador dos canais Hoje no Mundo Militar e Hoje na Segunda Guerra Mundial. Grande entusiasta de temas militares, dedicado à divulgação de notícias e inovações relacionadas ao militarismo e à geopolítica. E-mail de contato: hojenomundomilitar@gmail.com</p>
+                </div>
+                          </div>              <div class="mg-featured-slider">
+                        <!--Start mg-realated-slider -->
+                        <div class="mg-sec-title">
+                            <!-- mg-sec-title -->
+                                                        <h4>Related Post</h4>
+                        </div>
+                        <!-- // mg-sec-title -->
+                           <div class="row">
+                                <!-- featured_post -->
+                                                                      <!-- blog -->
+                                     <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-15h00.jpg?fit=1024%2C623&#038;ssl=1');" >
+                                        <div class="mg-blog-inner">
+                                          <div class="mg-blog-category"> 
+                <a href="https://hojenomundomilitar.com.br/category/noticias/" rel="category tag">Notícias</a>        </div>
+                                            <h4 class="title"> <a href="https://hojenomundomilitar.com.br/otan-comprometida-em-apoiar-a-adesao-da-georgia-e-da-ucrania/" title="Permalink to: OTAN “comprometida” em apoiar a adesão da Geórgia e da Ucrânia">
+                                              OTAN “comprometida” em apoiar a adesão da Geórgia e da Ucrânia</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date"><i class="fas fa-clock"></i> <a href="https://hojenomundomilitar.com.br/2023/03/"> mar 22, 2023</a></span>
+                                                                                        <a href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"> <i class="fas fa-user-circle"></i> Marcelo Rios</a>
+                                             </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                        <!-- blog -->
+                                     <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-14h00.jpg?fit=1024%2C576&#038;ssl=1');" >
+                                        <div class="mg-blog-inner">
+                                          <div class="mg-blog-category"> 
+                <a href="https://hojenomundomilitar.com.br/category/noticias/" rel="category tag">Notícias</a>        </div>
+                                            <h4 class="title"> <a href="https://hojenomundomilitar.com.br/general-dos-eua-preve-que-muitos-dos-exercitos-marinhas-e-forcas-aereas-do-mundo-serao-roboticos-em-15-anos-se-nao-antes/" title="Permalink to: General dos EUA prevê que muitos dos exércitos, marinhas e forças aéreas do mundo &#8216;serão robóticos&#8217; em 15 anos, se não antes">
+                                              General dos EUA prevê que muitos dos exércitos, marinhas e forças aéreas do mundo &#8216;serão robóticos&#8217; em 15 anos, se não antes</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date"><i class="fas fa-clock"></i> <a href="https://hojenomundomilitar.com.br/2023/03/"> mar 22, 2023</a></span>
+                                                                                        <a href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"> <i class="fas fa-user-circle"></i> Marcelo Rios</a>
+                                             </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                        <!-- blog -->
+                                     <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-13h00.jpg?fit=1024%2C576&#038;ssl=1');" >
+                                        <div class="mg-blog-inner">
+                                          <div class="mg-blog-category"> 
+                <a href="https://hojenomundomilitar.com.br/category/noticias/" rel="category tag">Notícias</a>        </div>
+                                            <h4 class="title"> <a href="https://hojenomundomilitar.com.br/chefe-da-otan-diz-que-aliados-precisam-de-meta-de-investimento-em-defesa-mais-ambiciosa/" title="Permalink to: Chefe da OTAN diz que aliados precisam de meta de investimento em defesa &#8216;mais ambiciosa&#8217;">
+                                              Chefe da OTAN diz que aliados precisam de meta de investimento em defesa &#8216;mais ambiciosa&#8217;</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date"><i class="fas fa-clock"></i> <a href="https://hojenomundomilitar.com.br/2023/03/"> mar 22, 2023</a></span>
+                                                                                        <a href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"> <i class="fas fa-user-circle"></i> Marcelo Rios</a>
+                                             </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                </div>
+                            
+                    </div>
+                    <!--End mg-realated-slider -->
+                  <div id="comments" class="comments-area mg-card-box padding-20">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deixe um comentário <small><a rel="nofollow" id="cancel-comment-reply-link" href="/suecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan/#respond" style="display:none;">Cancelar resposta</a></small></h3><p class="must-log-in">Você precisa fazer o <a href="https://hojenomundomilitar.com.br/wp-login.php?redirect_to=https%3A%2F%2Fhojenomundomilitar.com.br%2Fsuecia-e-finlandia-em-caminhos-diferentes-para-adesao-a-otan%2F">login</a> para publicar um comentário.</p>	</div><!-- #respond -->
+	</div><!-- #comments -->      </div>
+             <!--sidebar-->
+          <!--col-md-3-->
+            <aside class="col-md-3 col-sm-4">
+                              </aside>
+          <!--/col-md-3-->
+      <!--/sidebar-->
+          </div>
+  </div>
+</main>
+  <div class="container-fluid mg-posts-sec-inner">
+    <div class="missed-inner">
+      <div class="row">
+                    <div class="col-md-12">
+              <div class="mg-sec-title">
+                <!-- mg-sec-title -->
+                <h4>Veja +</h4>
+              </div>
+            </div>
+                        <!--col-md-3-->
+            <div class="col-md-3 col-sm-6 pulse animated">
+                <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-15h00.jpg?fit=1024%2C623&#038;ssl=1');" >
+                    <a class="link-div" href="https://hojenomundomilitar.com.br/otan-comprometida-em-apoiar-a-adesao-da-georgia-e-da-ucrania/"></a>
+                    <div class="mg-blog-inner">
+                      <div class="mg-blog-category">
+                                      
+                                            <a href="https://hojenomundomilitar.com.br/category/noticias/" style="">
+                            Notícias                        </a>
+                                                              </div>
+                      <h4 class="title"> <a href="https://hojenomundomilitar.com.br/otan-comprometida-em-apoiar-a-adesao-da-georgia-e-da-ucrania/" title="Permalink to: OTAN “comprometida” em apoiar a adesão da Geórgia e da Ucrânia"> OTAN “comprometida” em apoiar a adesão da Geórgia e da Ucrânia</a> </h4>
+                          <div class="mg-blog-meta">
+        <span class="mg-blog-date"><i class="fas fa-clock"></i>
+         <a href="https://hojenomundomilitar.com.br/2023/03/">
+         mar 22, 2023</a></span>
+         <a class="auth" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"><i class="fas fa-user-circle"></i> 
+        Marcelo Rios</a>
+         
+    </div>
+                        </div>
+                    
+                </div>
+            </div>
+            <!--/col-md-3-->
+                     <!--col-md-3-->
+            <div class="col-md-3 col-sm-6 pulse animated">
+                <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-14h00.jpg?fit=1024%2C576&#038;ssl=1');" >
+                    <a class="link-div" href="https://hojenomundomilitar.com.br/general-dos-eua-preve-que-muitos-dos-exercitos-marinhas-e-forcas-aereas-do-mundo-serao-roboticos-em-15-anos-se-nao-antes/"></a>
+                    <div class="mg-blog-inner">
+                      <div class="mg-blog-category">
+                                      
+                                            <a href="https://hojenomundomilitar.com.br/category/noticias/" style="">
+                            Notícias                        </a>
+                                                              </div>
+                      <h4 class="title"> <a href="https://hojenomundomilitar.com.br/general-dos-eua-preve-que-muitos-dos-exercitos-marinhas-e-forcas-aereas-do-mundo-serao-roboticos-em-15-anos-se-nao-antes/" title="Permalink to: General dos EUA prevê que muitos dos exércitos, marinhas e forças aéreas do mundo &#8216;serão robóticos&#8217; em 15 anos, se não antes"> General dos EUA prevê que muitos dos exércitos, marinhas e forças aéreas do mundo &#8216;serão robóticos&#8217; em 15 anos, se não antes</a> </h4>
+                          <div class="mg-blog-meta">
+        <span class="mg-blog-date"><i class="fas fa-clock"></i>
+         <a href="https://hojenomundomilitar.com.br/2023/03/">
+         mar 22, 2023</a></span>
+         <a class="auth" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"><i class="fas fa-user-circle"></i> 
+        Marcelo Rios</a>
+         
+    </div>
+                        </div>
+                    
+                </div>
+            </div>
+            <!--/col-md-3-->
+                     <!--col-md-3-->
+            <div class="col-md-3 col-sm-6 pulse animated">
+                <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-13h00.jpg?fit=1024%2C576&#038;ssl=1');" >
+                    <a class="link-div" href="https://hojenomundomilitar.com.br/chefe-da-otan-diz-que-aliados-precisam-de-meta-de-investimento-em-defesa-mais-ambiciosa/"></a>
+                    <div class="mg-blog-inner">
+                      <div class="mg-blog-category">
+                                      
+                                            <a href="https://hojenomundomilitar.com.br/category/noticias/" style="">
+                            Notícias                        </a>
+                                                              </div>
+                      <h4 class="title"> <a href="https://hojenomundomilitar.com.br/chefe-da-otan-diz-que-aliados-precisam-de-meta-de-investimento-em-defesa-mais-ambiciosa/" title="Permalink to: Chefe da OTAN diz que aliados precisam de meta de investimento em defesa &#8216;mais ambiciosa&#8217;"> Chefe da OTAN diz que aliados precisam de meta de investimento em defesa &#8216;mais ambiciosa&#8217;</a> </h4>
+                          <div class="mg-blog-meta">
+        <span class="mg-blog-date"><i class="fas fa-clock"></i>
+         <a href="https://hojenomundomilitar.com.br/2023/03/">
+         mar 22, 2023</a></span>
+         <a class="auth" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"><i class="fas fa-user-circle"></i> 
+        Marcelo Rios</a>
+         
+    </div>
+                        </div>
+                    
+                </div>
+            </div>
+            <!--/col-md-3-->
+                     <!--col-md-3-->
+            <div class="col-md-3 col-sm-6 pulse animated">
+                <div class="mg-blog-post-3 minh back-img" 
+                                                        style="background-image: url('https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2023/03/22-03-12h00.jpeg?fit=660%2C439&#038;ssl=1');" >
+                    <a class="link-div" href="https://hojenomundomilitar.com.br/putin-promete-responder-se-o-reino-unido-enviar-armas-com-uranio-para-a-ucrania/"></a>
+                    <div class="mg-blog-inner">
+                      <div class="mg-blog-category">
+                                      
+                                            <a href="https://hojenomundomilitar.com.br/category/noticias/" style="">
+                            Notícias                        </a>
+                                                              </div>
+                      <h4 class="title"> <a href="https://hojenomundomilitar.com.br/putin-promete-responder-se-o-reino-unido-enviar-armas-com-uranio-para-a-ucrania/" title="Permalink to: Putin promete responder se o Reino Unido enviar armas com urânio para a Ucrânia"> Putin promete responder se o Reino Unido enviar armas com urânio para a Ucrânia</a> </h4>
+                          <div class="mg-blog-meta">
+        <span class="mg-blog-date"><i class="fas fa-clock"></i>
+         <a href="https://hojenomundomilitar.com.br/2023/03/">
+         mar 22, 2023</a></span>
+         <a class="auth" href="https://hojenomundomilitar.com.br/author/hojenomundomilitar/"><i class="fas fa-user-circle"></i> 
+        Marcelo Rios</a>
+         
+    </div>
+                        </div>
+                    
+                </div>
+            </div>
+            <!--/col-md-3-->
+               </div>
+    </div>
+  </div>
+  <!--==================== /missed ====================-->   
+<!--==================== FOOTER AREA ====================-->
+        <footer style="background-image:url('https://hojenomundomilitar.com.br/wp-content/uploads/2022/11/cropped-lmagem-de-capa-site-1.jpg');">
+             <div class="overlay" style="background-color: #000000;">
+                <!--Start mg-footer-widget-area-->
+                                 <!--End mg-footer-widget-area-->
+                <!--Start mg-footer-widget-area-->
+                <div class="mg-footer-bottom-area">
+                    <div class="container-fluid">
+                        <div class="divide-line"></div>
+                        <div class="row align-items-center">
+                            <!--col-md-4-->
+                            <div class="col-md-6">
+                               <a href="https://hojenomundomilitar.com.br/" class="navbar-brand" rel="home"><img width="1500" height="1500" src="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?fit=1500%2C1500&amp;ssl=1" class="custom-logo" alt="Hoje No Mundo Militar" decoding="async" srcset="https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/hojenomundomilitar.com.br/wp-content/uploads/2022/11/icone-4-barb.jpg?resize=1320%2C1320&amp;ssl=1 1320w" sizes="(max-width: 1500px) 100vw, 1500px" /></a>                              <div class="site-branding-text">
+                              <h1 class="site-title"> <a href="https://hojenomundomilitar.com.br/" rel="home">Hoje No Mundo Militar</a></h1>
+                              <p class="site-description">Temas militares atuais</p>
+                              </div>
+                            </div>
+
+                             
+                            <div class="col-md-6 text-right text-xs">
+                                
+                            <ul class="mg-social">
+                                                                 </ul>
+
+
+                            </div>
+                            <!--/col-md-4-->  
+                             
+                        </div>
+                        <!--/row-->
+                    </div>
+                    <!--/container-->
+                </div>
+                <!--End mg-footer-widget-area-->
+
+                <div class="mg-footer-copyright">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6 text-xs">
+                                <p>© Copyright 2022 Hoje no Mundo Militar. Todos os direitos reservados.</p>                            </div>
+
+
+
+                            <div class="col-md-6 text-right text-xs">
+                                <ul id="menu-menu-1" class="info-right justify-content-center justify-content-md-end"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-419 dropdown"><a class="nav-link" title="Artigos" href="https://hojenomundomilitar.com.br/category/artigos/" data-toggle="dropdown" class="dropdown-toggle">Artigos </a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30706"><a class="dropdown-item" title="Artigos" href="https://hojenomundomilitar.com.br/category/artigos/">Artigos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26287"><a class="dropdown-item" title="Artigo de opinião" href="https://hojenomundomilitar.com.br/category/artigo-de-opiniao/">Artigo de opinião</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14106"><a class="nav-link" title="Biografia" href="https://hojenomundomilitar.com.br/category/biografia/">Biografia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40976"><a class="nav-link" title="Boletim de Guerra" href="https://hojenomundomilitar.com.br/category/boletim-de-guerra/">Boletim de Guerra</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28242 dropdown"><a class="nav-link" title="Colunistas" href="https://hojenomundomilitar.com.br/category/colunistas/" data-toggle="dropdown" class="dropdown-toggle">Colunistas </a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30123"><a class="dropdown-item" title="André Possoli" href="https://hojenomundomilitar.com.br/category/andre-possoli/">André Possoli</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36366"><a class="dropdown-item" title="Angelo Nicolaci" href="https://hojenomundomilitar.com.br/category/angelo-nicolaci/">Angelo Nicolaci</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29889"><a class="dropdown-item" title="Barbara Martinelli" href="https://hojenomundomilitar.com.br/category/barbara-martinelli/">Barbara Martinelli</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30704"><a class="dropdown-item" title="Carlos Poggio" href="https://hojenomundomilitar.com.br/category/carlos-poggio/">Carlos Poggio</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30697"><a class="dropdown-item" title="Carlos Ferreira" href="https://hojenomundomilitar.com.br/category/carlos-ferreira/">Carlos Ferreira</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30703"><a class="dropdown-item" title="Danilo Miranda" href="https://hojenomundomilitar.com.br/category/danilo-miranda/">Danilo Miranda</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30701"><a class="dropdown-item" title="De Leon Petta" href="https://hojenomundomilitar.com.br/category/de-leon-petta/">De Leon Petta</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28298"><a class="dropdown-item" title="Coluna do Professor" href="https://hojenomundomilitar.com.br/category/coluna-do-professor/">Coluna do Professor</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30699"><a class="dropdown-item" title="Fernando Montenegro" href="https://hojenomundomilitar.com.br/category/fernando-montenegro/">Fernando Montenegro</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30115"><a class="dropdown-item" title="Isabel Macedo" href="https://hojenomundomilitar.com.br/category/isabel-macedo/">Isabel Macedo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30125"><a class="dropdown-item" title="João Diego" href="https://hojenomundomilitar.com.br/category/joao-diego/">João Diego</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30121"><a class="dropdown-item" title="João Paulo Alves" href="https://hojenomundomilitar.com.br/category/joao-paulo-alves/">João Paulo Alves</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30124"><a class="dropdown-item" title="Luiz Lima" href="https://hojenomundomilitar.com.br/category/luiz-lima/">Luiz Lima</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30698"><a class="dropdown-item" title="Renato Marçal" href="https://hojenomundomilitar.com.br/category/renato-marcal/">Renato Marçal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30126"><a class="dropdown-item" title="Tiago Pedreiro" href="https://hojenomundomilitar.com.br/category/tiago-pedreiro/">Tiago Pedreiro</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30122"><a class="dropdown-item" title="Wallace Mesquita" href="https://hojenomundomilitar.com.br/category/wallace-mesquita/">Wallace Mesquita</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14105"><a class="nav-link" title="Entrevista" href="https://hojenomundomilitar.com.br/category/entrevista/">Entrevista</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36063"><a class="nav-link" title="Hoje na história militar" href="https://hojenomundomilitar.com.br/category/hoje-na-historia-militar/">Hoje na história militar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32379"><a class="nav-link" title="Newsletter" href="https://hojenomundomilitar.com.br/newsletter/">Newsletter</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-363"><a class="nav-link" title="Notícias" href="https://hojenomundomilitar.com.br/category/noticias/">Notícias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14103 dropdown"><a class="nav-link" title="Séries" href="https://hojenomundomilitar.com.br/series/" data-toggle="dropdown" class="dropdown-toggle">Séries </a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23082"><a class="dropdown-item" title="A influência chinesa" href="https://hojenomundomilitar.com.br/category/a-influencia-chinesa/">A influência chinesa</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26285"><a class="dropdown-item" title="Armas hipersônicas" href="https://hojenomundomilitar.com.br/category/armas-hipersonicas/">Armas hipersônicas</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36101"><a class="dropdown-item" title="Armas Icônicas" href="https://hojenomundomilitar.com.br/category/armas-iconicas/">Armas Icônicas</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19559"><a class="dropdown-item" title="BID" href="https://hojenomundomilitar.com.br/category/bid/">BID</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34660"><a class="dropdown-item" title="Crimes transnacionais" href="https://hojenomundomilitar.com.br/category/crimes-transnacionais/">Crimes transnacionais</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26286"><a class="dropdown-item" title="Brasil 200 anos de independência" href="https://hojenomundomilitar.com.br/category/brasil-200-anos-de-independencia/">Brasil 200 anos de independência</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14109"><a class="dropdown-item" title="Drones brasileiros" href="https://hojenomundomilitar.com.br/category/drones-brasileiros/">Drones brasileiros</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26288"><a class="dropdown-item" title="DIH" href="https://hojenomundomilitar.com.br/category/dih/">DIH</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14108"><a class="dropdown-item" title="Estratégia" href="https://hojenomundomilitar.com.br/category/estrategia/">Estratégia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39685"><a class="dropdown-item" title="Estratégias de Defesa Assimétrica" href="https://hojenomundomilitar.com.br/category/estrategias-de-defesa-assimetrica/">Estratégias de Defesa Assimétrica</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19560"><a class="dropdown-item" title="Medalhas" href="https://hojenomundomilitar.com.br/category/medalhas/">Medalhas</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34934"><a class="dropdown-item" title="O filho que a américa quer esquecer" href="https://hojenomundomilitar.com.br/category/o-filho-que-a-america-quer-esquecer/">O filho que a américa quer esquecer</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30201"><a class="dropdown-item" title="O Fim da Democracia" href="https://hojenomundomilitar.com.br/category/o-fim-da-democracia/">O Fim da Democracia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27275"><a class="dropdown-item" title="O fim do mundo que conhecemos" href="https://hojenomundomilitar.com.br/category/o-fim-do-mundo-que-conhecemos/">O fim do mundo que conhecemos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14107"><a class="dropdown-item" title="Propaganda de Guerra" href="https://hojenomundomilitar.com.br/category/propaganda-de-guerra/">Propaganda de Guerra</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26290"><a class="dropdown-item" title="Segunda Guerra Mundial" href="https://hojenomundomilitar.com.br/category/segunda-guerra-mundial/">Segunda Guerra Mundial</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39686"><a class="nav-link" title="Segurança Pública" href="https://hojenomundomilitar.com.br/category/seguranca-publica/">Segurança Pública</a></li>
+</ul>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/overlay-->
+        </footer>
+        <!--/footer-->
+    </div>
+    <!--/wrapper-->
+    <!--Scroll To Top-->
+    <a href="#" class="ta_upscr bounceInup animated"><i class="fas fa-angle-up"></i></a>
+    <!--/Scroll To Top-->
+<!-- /Scroll To Top -->
+<style>
+        footer .mg-footer-bottom-area .custom-logo {
+            width: 100px;
+            height: 100px;
+        }
+
+</style>
+<script type="text/javascript">
+(function($) {
+  "use strict";
+function homemain() {
+	const homemain = new Swiper('.homemain', {
+		direction: 'horizontal',
+		slidesPerView: 1, 
+		loop: true, 
+		autoplay: {
+	  	delay: 5000, 
+		}, 
+		// If we need pagination
+		pagination: {
+	    	el: '.swiper-pagination',
+		}, 	
+		// Navigation arrows
+		navigation: {
+	    	nextEl: '.swiper-button-next',
+	    	prevEl: '.swiper-button-prev',
+		}, 
+		// And if we need scrollbar
+		scrollbar: {
+		    el: '.swiper-scrollbar',
+		},
+	});  
+}
+homemain();
+})(jQuery); 
+</script>
+	<style>
+		footer .mg-widget p, footer .site-title a, footer .site-title a:hover , footer .site-description, footer .site-description:hover, footer .mg-widget h6, footer .mg_contact_widget .mg-widget h6 {
+	
+			color: #ffffff;
+}
+
+	</style>
+	<style>
+		footer .mg-footer-copyright {
+    		background: #000000;
+		}
+	</style>
+	<style>
+		footer .mg-footer-copyright p, footer .mg-footer-copyright a {
+    		color: #ffffff;
+		}
+	</style>
+<style type="text/css">
+/*=== Site Identity colors ===*/
+.site-title a, .site-description{
+	color: #759349!important;
+}
+/*=== Header Menus colors ===*/
+.navbar-wp .navbar-nav > li> a , .mg-standhead .navbar-wp .navbar-nav > li> a {
+	color: #ffffff!important;
+	background: #1c6600;
+}
+.mg-search-box a , .mg-standhead .mg-search-box a{
+	color: #ffffff!important;
+}
+.mg-search-box a:hover,  .mg-search-box a:focus , .mg-standhead .mg-search-box a:hover, .mg-standhead .mg-search-box a:focus{
+	color: #ffffff!important;
+}
+.mg-headwidget .navbar-wp .navbar-nav > li > a:hover, .mg-headwidget .navbar-wp .navbar-nav > .active > a, .mg-headwidget .navbar-wp .navbar-nav > .active > a:hover , .mg-standhead .navbar-wp .navbar-nav > li > a:hover, .mg-standhead .navbar-wp .navbar-nav > .active > a, .mg-standhead .navbar-wp .navbar-nav > .active > a:hover{
+	color: #ffffff!important;
+	background: #1c6600;
+}
+.mg-headwidget .navbar-wp, .mg-headwidget .mg-menu-full .navbar, .mg-standhead .navbar-wp{
+	background: #1c6600!important;
+}
+/*=== Header Sub Menus colors ===*/
+.navbar-wp .dropdown-menu > li > a, .navbar-wp .dropdown-menu.searchinner .btn , .mg-standhead .navbar-wp .dropdown-menu > li > a, .mg-standhead .navbar-wp .dropdown-menu.searchinner .btn {
+	color: #000000!important;
+	background: #ffffff;
+}
+.navbar-wp .dropdown-menu > li > a:hover, .mg-search-box .searchinner .btn:hover, .mg-search-box .searchinner .btn:focus {
+	color: #ffffff!important;
+	background: #ffffff;
+}
+/*=== Header Toggle colors ===*/
+.navbar-toggler .close, .navbar-toggler .navbar-toggler-icon {
+    color: #ffffff!important;
+}
+.navbar-toggler{
+	background: #759349 !important;
+}
+.navbar-toggler:focus .close, .navbar-toggler:focus .navbar-toggler-icon {
+    color: #000000!important;
+}
+.navbar-toggler:focus{
+	background:  !important;
+}
+</style>
+<style type="text/css">
+/*=== Top Bar colors ===*/
+.mg-head-detail {
+	background: #000000 !important;
+ }
+ .mg-head-detail .info-left li  , .mg-head-detail .info-left li a, .mg-head-detail li a i,.mg-standhead .mg-head-detail .info-left li, .mg-standhead .mg-head-detail .info-left li a {
+	color: #ffffff;
+ }
+ .mg-head-detail .info-left li span.time{
+	color: #000000;
+	background: #ffffff;
+ }
+.mg-head-detail .mg-social li span.icon-soci a i , .mg-head-detail .mg-social li span.icon-soci{
+	color: ;
+	background: ;
+}
+</style> 
+<style type="text/css">
+/*=== Top Tags colors ===*/
+.mg-tpt-tag-area {
+	background: #000000;	
+}
+.mg-tpt-txnlst strong{
+	color: #ffffff;
+}
+.mg-tpt-txnlst ul li a  {
+	color: #ffffff;
+	background: #6e843b;
+}
+.mg-tpt-txnlst ul li a:hover  {
+	color: #000000;
+	background: #ffffff;
+}
+</style>
+<style type="text/css">
+.mg-latest-news-sec , .mg-latest-news {
+	background: #003d00;
+}
+.mg-latest-news .bn_title h2 , .mg-latest-news .bn_title h2 span {
+	color: #ffffff;
+	
+	border-left-color: #759349;
+}
+.mg-latest-news .bn_title:not(span) {
+	background: #759349;
+
+}
+.mg-latest-news-slider .js-marquee a span , .mg-latest-news-slider .js-marquee a::before{
+	color: #ffffff;
+}
+</style> 
+<style type="text/css">
+.mg-fea-area .top-right-area .nav-tabs .nav-link{
+	color: #ffffff;
+	background: #1c6600;
+	border-color: #000000; 
+}
+.mg-fea-area .top-right-area .nav-tabs .nav-link.active, .mg-fea-area .top-right-area .nav-tabs .nav-link.active:hover, .mg-fea-area .top-right-area .nav-tabs .nav-link.active:focus{
+	color: #ffffff;
+	background: #1c6600;
+	border-bottom-color: #ffffff; 
+}
+
+.mg-fea-area .top-right-area .small-post .title_small_post a h5 {
+	color: #000000;
+}
+
+.mg-fea-area .top-right-area .small-post {
+	background: #ffffff ;
+}
+</style>
+<style type="text/css">
+.mg-posts-sec-post .mg-sec-top-post .title a {
+	color: #000000!important;
+}
+
+.mg-posts-sec-post .title a:hover {
+	color: #000000!important;
+}
+
+.mg-posts-sec-post .mg-blog-meta .mg-blog-date a , .mg-posts-sec-post .mg-blog-meta a , .mg-posts-sec-post .mg-blog-meta .mg-blog-date i , .mg-posts-sec-post .mg-blog-meta a i , .mg-posts-sec-post .mg-blog-meta .post-edit-link i {
+	color: #000000!important;
+}
+
+.mg-posts-sec-post .mg-blog-meta .mg-blog-date a:hover , .mg-posts-sec-post .mg-blog-meta a:hover {
+	color: !important;
+}
+
+.mg-posts-sec-post .mg-content p  {
+	color: !important;
+}
+.mg-posts-sec-post {
+	background: #ffffff;
+}
+</style>
+<style type="text/css">
+
+.missed-inner .mg-sec-title h4 {
+	color: ;
+}
+.missed-inner .mg-sec-title h4 {
+	background: #759349;
+	
+}
+.missed-inner .mg-sec-title h4::before {
+	border-left-color: #759349;
+}
+.missed-inner .mg-sec-title {
+	border-color: #759349;
+}
+.mg-posts-sec-inner .missed-inner{
+	background: ;
+}
+</style> 
+<style type="text/css">
+.mg-breadcrumb-title h1{
+    color: #000000 ;
+}
+.mg-breadcrumb-section .overlay { 
+    padding: ;
+	background-color:#ffffff;
+}
+</style> 
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+						<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&amp;appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			document.body.addEventListener( 'is.post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+			<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-includes/js/admin-bar.min.js?ver=6.1.1' id='admin-bar-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' id='bp-nouveau-js-extra'>
+/* <![CDATA[ */
+var BP_Nouveau = {"ajaxurl":"https:\/\/hojenomundomilitar.com.br\/wp-admin\/admin-ajax.php","confirm":"Tem certeza?","show_x_comments":"Mostrar todos os %d coment\u00e1rios","unsaved_changes":"Seu perfil tem altera\u00e7\u00f5es n\u00e3o salvas. Se voc\u00ea deixar a p\u00e1gina, as mudan\u00e7as ser\u00e3o perdidas.","object_nav_parent":"#buddypress","objects":["activity","members","groups","blogs","xprofile","friends","messages","settings","notifications","group_members","group_requests"],"nonces":{"activity":"f0baba9c8a","members":"13b9b53f66","groups":"66dca0b567","blogs":"4b2e871829","xprofile":"00ada902a8","friends":"236db9dcaa","messages":"c3823486e2","settings":"d7bf7541be","notifications":"093f033f81"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/buddypress/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=11.1.0' id='bp-nouveau-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-includes/js/comment-reply.min.js?ver=6.1.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js?ver=11.9.1' id='jetpack_likes_queuehandler-js'></script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/themes/newsup-pro/js/custom.js?ver=6.1.1' id='newsup-custom-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hojenomundomilitar.com.br/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.9.1' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-telegram' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-telegram' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		<iframe src='https://widgets.wp.com/likes/master.html?ver=202312#ver=202312&#038;lang=pt-br' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> blogueiros gostam disto:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script src='https://stats.wp.com/e-202312.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'168826001',post:'44162',tz:'-3',srv:'hojenomundomilitar.com.br',j:'1:11.9.1'} ]);
+		_stq.push([ 'clickTrackerInit', '168826001', '44162' ]);
+	</script></body>
+</html>
